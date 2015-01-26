@@ -12,11 +12,12 @@ http://users.fba.up.pt/~ldcag01015/anti_sublime/modernism.html
 
 Art Against Information: Case Studies in Data Practice - Mitchell Whitelaw
 http://eleven.fibreculturejournal.org/fcj-067-art-against-information-case-studies-in-data-practice/
-# Technical Resources:
-NYTimes Article Search API:
+
+# Technical Resources:
+NYTimes Article Search API:
 http://developer.nytimes.com/docs/read/article_search_api_v2
 
-# Projects shown in class:
+# Projects for reference:
 
 ALL OF THEM IN ONE LINK: http://www.one-tab.com/page/DEf9AChdQzqYmp_qc3i7QQ
 
@@ -47,4 +48,3 @@ Stefanie Posavec at Eyeo 2012: http://vimeo.com/46304381
 
 
 
-

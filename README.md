@@ -59,6 +59,7 @@ Since we’re not using a percentage-based grading system, let me put it another
 ## Touchstones
 
 (i) Gary Shteyngart - Super Sad True Love Story
+
 (ii) James Gleick - The Information
 
 ## Syllabus

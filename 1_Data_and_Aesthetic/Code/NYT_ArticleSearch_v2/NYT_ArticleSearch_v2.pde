@@ -9,7 +9,7 @@
  
  */
 
-String apiKey = "2dad5111a0e2aa45101b37ac994cc000:5:68404942";
+String apiKey = "c6ed51e1e5fd161a282b30a414762ca0:6:57885477";
 String baseURL = "http://api.nytimes.com/svc/search/v2/articlesearch.json?";
 
 void setup() {
@@ -18,7 +18,7 @@ void setup() {
   background(255);
   
   //This function returns a list of integers, counting a search term per year
-  int[] issCounts = doASearchYears("data", 2014, 2015);
+  int[] issCounts = doASearchYears("snow", 1965, 2015);
   
   //Which we can draw a bar chart from:
   for (int i = 0; i < issCounts.length; i++) {
@@ -38,7 +38,7 @@ void setup() {
   }
   
   //It's often useful to save data like this (so we don't have to call the API every time once we're visualizing)
-  PrintWriter writer = createWriter("data/issData.csv");
+  PrintWriter writer = createWriter("data/snowData.csv");
   for (int i:issCounts) writer.println(i);
   writer.flush();
   writer.close();

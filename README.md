@@ -1,8 +1,8 @@
-# ITP Data Art - Fall 2014
+# ITP Data Art - Spring 2015
 
 * Instructor: Jer Thorp
 * Instructor e-mail: blprnt@blprnt.com
-* Office Hours: Monday, 3:30pm to 5:30pm. Sign up at [ohours](http://ohours.org/blprnt)
+* Office Hours: Monday, 3:30pm to 5:30pm. Sign up on [google docs](https://docs.google.com/spreadsheets/d/1wMgrv-KR0MloSnRqckmhNLNF6F9XOHlupLh0-KNV_5U/edit?usp=sharing)
 * Class Logistics: Mon 12:05pm to 3:30pm 
 
 ## Aims of Course
@@ -14,7 +14,7 @@ Fascinating and terrifying things are happening the intersection of data and cul
 This course will be divided into four 3 week 'sections', each focusing on a different aspect of data art:
 
 1. **Data & Aesthetic**
-2. **Text & Archive**
+2. **Text, Archives And Memory Stores**
 3. **Data & Publics**
 4. **Ethics, Humans & Responsibility**
 
@@ -56,28 +56,33 @@ Since we’re not using a percentage-based grading system, let me put it another
 
 (vi) I am 100% dedicated to a inclusive, harassment-free experience for everyone regardless of gender, race, sexual orientation, disability, appearance, or religion. I will not tolerate harassment of class participants in any form.
 
+## Touchstones
+
+(i) Gary Shteyngart - Super Sad True Love Story
+(ii) James Gleick - The Information
+
 ## Syllabus
 
 **Data & Aesthetic**
 
-1. September 8th - Survey, technical workshop (NYTimes API)
-2. September 15th - Discussions on readings, other resources
-3. September 22nd - Guest Speaker (TBA) & Project presentations
+1. January 26th - Survey, technical workshop (NYTimes API)
+2. February 2nd - Super secret field trip
+3. February 9th - Discussions on readings & Project presentations
  
-**Text & Archive**
+**Text, Archives & Meory Stores**
 
-4. September 29th - Survey, technical workshop (RiTa)
-5. October 6th - Discussions on readings, other resources
-6. October 20th - Guest Speaker (TBA) & Project presentations
+4. February 23rd - Survey, technical workshop (RiTa)
+5. March 2nd - Discussions on readings, other resources
+6. March 9th - Guest Speaker (TBA) & Project presentations
 
 **Data & Publics**
 
-7. October 27th - Survey, technical workshop (OpenPaths, Leaflet.js)
-8. November 3rd - Discussions on readings, other resources
-9. November 10th - Guest Speaker (TBA) & Project presentations
+7. March 16th - Survey, technical workshop (OpenPaths, Leaflet.js)
+8. March 23rd - Discussions on readings, other resources
+9. March 30th - Guest Speaker (TBA) & Project presentations
 
 **Ethics, Humans & Responsibility**
 
-10. November 17th - Survey, technical workshop (TBA)
-11. December 1st - Discussions on readings, other resources
-12. December 8th - Guest Speaker (TBA) & Project presentations
+10. April 6th - Survey, technical workshop (TBA)
+11. April 13st - Discussions on readings, other resources
+12. April 20th - Guest Speaker (TBA) & Project presentations

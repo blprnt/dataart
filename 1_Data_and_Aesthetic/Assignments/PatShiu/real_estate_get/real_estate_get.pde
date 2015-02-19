@@ -4,7 +4,7 @@
 */
 
 
-String apiKey = "176e3326eb84497cb2cb9e1aa5bb3a32:14:71049179"; //For real estate API
+String apiKey = "5d4f0b5ce54021220033d39d2f7b6af1:0:71388684"; //For real estate API
 String baseURL = "http://api.nytimes.com/svc/real-estate/v2/listings/percentile/50.json?";
 
 
@@ -86,7 +86,7 @@ void setup() {
   //1. iterates though a range of years and 
   //2. for each zipcode in an array, 
   //3. shows the 50th percentile for every quarter of the particular year
-
+  println("year, zip, Q1, Q2, Q3, Q4, mean");
   getRealEstatePrices( nycZipCodes, 2014 );
   
 

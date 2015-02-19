@@ -1,4 +1,4 @@
-int queryDelay = 1200;
+int queryDelay = 500;
 
 // int[] doASearchYears(String q, int startYear, int endYear) {
 //   int[] counts = new int[endYear - startYear];
@@ -27,41 +27,45 @@ int queryDelay = 1200;
 void getRealEstatePrices(int[] zipCodesList, int startYear, int endYear) {
 
   for (int yearInFocus = startYear; yearInFocus < endYear; yearInFocus++){
-    for (int quarterInFocus = 1; quarterInFocus < 4; quarterInFocus++){
-      for (int zipInFocus = 0; zipInFocus < zipCodesList.length; zipInFocus++){
-        try {
-          RealEstatePriceResult r = runNYTQuery ( zipCodesList[ zipInFocus ], str(yearInFocus), quarterInFocus ); //Create result object and run search to fill it's variables with value 
-          if ( r.listingPrice != "$0.00") {
-            println( yearInFocus + " " + quarterInFocus + " " + zipCodesList[ zipInFocus ] + ", " + r.listingPrice );//print out "year, zipcode, quarter, price"
-          } else {
-            println( yearInFocus + " " + quarterInFocus + " " + zipCodesList[ zipInFocus ] + ", NULL" );//print out "year, zipcode, quarter, price"
-          }
-          delay(queryDelay);
-        } catch (Exception e){
-          println("FAILED ON " + yearInFocus + ", Q-" + quarterInFocus + ", " + zipInFocus + ". IF YOU SEE THIS MESSAGE A BUNCH OF TIMES IN A ROW, TRY AGAIN LATER, OR WITH A DIFFERENT QUERY. \n AND MAKE SURE YOU'VE ENTERED YOUR API KEY!"); 
-        }
-      }
-    }
+    getRealEstatePrices(zipCodesList, yearInFocus);
   }
 }
 
 //getRealEstatePrices for just one year
 void getRealEstatePrices(int[] zipCodesList, int someYear) {
-
-  for (int quarterInFocus = 1; quarterInFocus <= 4; quarterInFocus++){
-    for (int zipInFocus = 0; zipInFocus < zipCodesList.length; zipInFocus++){
+  for (int zipInFocus = 0; zipInFocus < zipCodesList.length; zipInFocus++){
+    String[] quarterlyPrices = new String[4];
+    for (int quarterInFocus = 1; quarterInFocus <= 4; quarterInFocus++){
       try {
         RealEstatePriceResult r = runNYTQuery ( zipCodesList[ zipInFocus ], str(someYear), quarterInFocus ); //Create result object and run search to fill it's variables with value 
-        if ( r.listingPrice.equals("$0.00")) {
-          println( someYear + ", " + quarterInFocus + ", " + zipCodesList[ zipInFocus ] + ", NULL" );//print out "year, zipcode, quarter, price"
-        } else {
-          println( someYear + ", " + quarterInFocus + ", " + zipCodesList[ zipInFocus ] + ", " + r.listingPrice);//print out "year, zipcode, quarter, price"
-        }
+        quarterlyPrices[quarterInFocus-1] = r.listingPrice;
         delay(queryDelay);
       } catch (Exception e){
         println("FAILED ON " + someYear + ", Q-" + quarterInFocus + ", " + zipInFocus + ". IF YOU SEE THIS MESSAGE A BUNCH OF TIMES IN A ROW, TRY AGAIN LATER, OR WITH A DIFFERENT QUERY. \n AND MAKE SURE YOU'VE ENTERED YOUR API KEY!"); 
       }
     }
+
+    //compute the mean price, exclude "N/A" results 
+    int sumOfQuarters = 0; 
+    String meanPrice;
+    int nullValueCount = 0; 
+    for (int i = 0; i < quarterlyPrices.length; i++){
+      if ( quarterlyPrices[i].equals("N/A") ) {
+        //skip, do not add
+        nullValueCount++; 
+      } else {
+        sumOfQuarters = sumOfQuarters + int(quarterlyPrices[i]);
+      }
+    }
+    //When done, check if all four quarters were N/A 
+    if ( nullValueCount == 4 ){
+      meanPrice = "N/A";
+    } else { // N/A count is 0, 1, 2 or 3
+      int n = sumOfQuarters / (4-nullValueCount);
+      meanPrice = str(n);     
+    }
+    
+    println( someYear + ", " + zipCodesList[ zipInFocus ] + ", " + quarterlyPrices[0] + ", " + quarterlyPrices[1] + ", " + quarterlyPrices[2] + ", " + quarterlyPrices[3] + ", " + meanPrice);//print out "year, zipcode, quarter, price"
   }
 
 }
@@ -103,6 +107,9 @@ class RealEstatePriceResult {
       listingPrice = listingPrice.substring( 1, removeDecimalLength );
       String[] getIntOnly = splitTokens( listingPrice, ",");
       listingPrice = join( getIntOnly, "" );
+      if ( listingPrice.equals("0") ) {
+        listingPrice = "N/A";
+      }
     } catch(Exception e){
       println("Could not retrieve listing price for zipcode.");
       listingPrice = "N/A";

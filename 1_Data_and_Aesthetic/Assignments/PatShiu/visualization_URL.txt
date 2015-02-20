@@ -1,0 +1,8 @@
+2009 - 2014 Real Estate Listing Price Comparison
+http://patshiu.cartodb.com/viz/93fce9e0-b883-11e4-bb41-0e018d66dc29/embed_map
+
+2009 Real Estate Listing Price by Zip Code
+http://patshiu.cartodb.com/viz/87e873fc-b87b-11e4-83d4-0e0c41326911/embed_map
+
+2014 Real Estate Listing Price by Zip Code
+http://patshiu.cartodb.com/viz/a1a2b632-b87a-11e4-83d4-0e0c41326911/embed_map

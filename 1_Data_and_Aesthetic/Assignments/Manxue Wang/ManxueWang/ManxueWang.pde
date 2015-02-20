@@ -18,7 +18,7 @@ void setup() {
   smooth();
 
   /** The URL for the JSON data 
-  String apiKey = "eea8dde703c67525099978e40ca1bfdc:17:71035997";
+  String apiKey = "my APIkey";
   String url = "http://api.nytimes.com/svc/search/v2/articlesearch.json?q=";
   String query =  "queer+theory";
   //String setup = "&fl=keywords%2Cheadline";

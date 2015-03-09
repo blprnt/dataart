@@ -1,0 +1,29 @@
+#price_rise_1{
+  polygon-fill: rgba(67,97,143, 0);
+  polygon-opacity: 1;
+  polygon-comp-op: overlay;
+  line-color: #FFF;
+  line-width: 0.5;
+  line-opacity: 1;
+}
+#price_rise_1 [ rise <= 5900000] {
+   polygon-fill: rgba(193, 55, 60, 1);
+}
+#price_rise_1 [ rise <= 300438] {
+   polygon-fill: rgba(193, 55, 60, 0.85);
+}
+#price_rise_1 [ rise <= 105063] {
+   polygon-fill: rgba(193, 55, 60, 0.70);
+}
+#price_rise_1 [ rise <= 58750] {
+   polygon-fill: rgba(193, 55, 60, 0.55);
+}
+#price_rise_1 [ rise <= 24638] {
+   polygon-fill: rgba(193, 55, 60, 0.40);
+}
+#price_rise_1 [ rise <= 10625] {
+   polygon-fill: rgba(193, 55, 60, 0.25);
+}
+#price_rise_1 [ rise <= 6250] {
+   polygon-fill: rgba(193, 55, 60, 0.10);
+}

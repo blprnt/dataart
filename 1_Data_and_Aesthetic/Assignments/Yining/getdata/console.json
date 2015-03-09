@@ -1,0 +1,4352 @@
+[
+    {
+        "title": "THE GIRL ON THE TRAIN",
+        "author": "Paula Hawkins",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781594633669.jpeg",
+        "list": "Combined Print & E-Book Fiction"
+    },
+    {
+        "title": "PRIVATE VEGAS",
+        "author": "James Patterson and Maxine Paetro",
+        "image": null,
+        "list": "Combined Print & E-Book Fiction"
+    },
+    {
+        "title": "FIFTY SHADES OF GREY",
+        "author": "E L James",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780345803481.jpg",
+        "list": "Combined Print & E-Book Fiction"
+    },
+    {
+        "title": "ALL THE LIGHT WE CANNOT SEE",
+        "author": "Anthony Doerr",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781476746609.jpg",
+        "list": "Combined Print & E-Book Fiction"
+    },
+    {
+        "title": "VIPER GAME",
+        "author": "Christine Feehan",
+        "image": null,
+        "list": "Combined Print & E-Book Fiction"
+    },
+    {
+        "title": "GONE GIRL",
+        "author": "Gillian Flynn",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307588388.jpg",
+        "list": "Combined Print & E-Book Fiction"
+    },
+    {
+        "title": "BEAUTIFUL REDEMPTION",
+        "author": "Jamie McGuire",
+        "image": null,
+        "list": "Combined Print & E-Book Fiction"
+    },
+    {
+        "title": "THE SECRETS OF SIR RICHARD KENWORTHY",
+        "author": "Julia Quinn",
+        "image": null,
+        "list": "Combined Print & E-Book Fiction"
+    },
+    {
+        "title": "BIG LITTLE LIES",
+        "author": "Liane Moriarty",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780698138636.jpeg",
+        "list": "Combined Print & E-Book Fiction"
+    },
+    {
+        "title": "BOUND BY FLAMES",
+        "author": "Jeaniene Frost",
+        "image": null,
+        "list": "Combined Print & E-Book Fiction"
+    },
+    {
+        "title": "STILL ALICE",
+        "author": "Lisa Genova",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781439102817.jpg",
+        "list": "Combined Print & E-Book Fiction"
+    },
+    {
+        "title": "IN HIS KEEPING",
+        "author": "Maya Banks",
+        "image": null,
+        "list": "Combined Print & E-Book Fiction"
+    },
+    {
+        "title": "FIFTY SHADES DARKER",
+        "author": "E L James",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780345803498.jpg",
+        "list": "Combined Print & E-Book Fiction"
+    },
+    {
+        "title": "THE ESCAPE",
+        "author": "David Baldacci",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781455521197.jpeg",
+        "list": "Combined Print & E-Book Fiction"
+    },
+    {
+        "title": "GRAY MOUNTAIN",
+        "author": "John Grisham",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780385537148.jpeg",
+        "list": "Combined Print & E-Book Fiction"
+    },
+    {
+        "title": "DARK PLACES",
+        "author": "Gillian Flynn",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307341570.jpg",
+        "list": "Combined Print & E-Book Fiction"
+    },
+    {
+        "title": "ONE NIGHT STAND",
+        "author": "J S Cooper and Helen Cooper",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781940218335.jpg",
+        "list": "Combined Print & E-Book Fiction"
+    },
+    {
+        "title": "SAINT ODD",
+        "author": "Dean Koontz",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780345545886.jpeg",
+        "list": "Combined Print & E-Book Fiction"
+    },
+    {
+        "title": "FIFTY SHADES TRILOGY",
+        "author": "E L James",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780345803573.jpg",
+        "list": "Combined Print & E-Book Fiction"
+    },
+    {
+        "title": "ORPHAN TRAIN",
+        "author": "Christina Baker Kline",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780062101204.jpg",
+        "list": "Combined Print & E-Book Fiction"
+    },
+    {
+        "title": "AMERICAN SNIPER",
+        "author": "Chris Kyle with Scott McEwen and Jim DeFelice",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780062082374.jpg",
+        "list": "Combined Print & E-Book Nonfiction"
+    },
+    {
+        "title": "UNBROKEN",
+        "author": "Laura Hillenbrand",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781400064168.jpg",
+        "list": "Combined Print & E-Book Nonfiction"
+    },
+    {
+        "title": "WILD",
+        "author": "Cheryl Strayed",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307957658.jpg",
+        "list": "Combined Print & E-Book Nonfiction"
+    },
+    {
+        "title": "THE BOYS IN THE BOAT",
+        "author": "Daniel James Brown",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781101622742.jpg",
+        "list": "Combined Print & E-Book Nonfiction"
+    },
+    {
+        "title": "BEING MORTAL",
+        "author": "Atul Gawande",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781627790550.jpg",
+        "list": "Combined Print & E-Book Nonfiction"
+    },
+    {
+        "title": "THE WATER IS WIDE",
+        "author": "Pat Conroy",
+        "image": null,
+        "list": "Combined Print & E-Book Nonfiction"
+    },
+    {
+        "title": "GHOST BOY",
+        "author": "Martin Pistorius with Megan Lloyd Davies",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781400205844.jpeg",
+        "list": "Combined Print & E-Book Nonfiction"
+    },
+    {
+        "title": "THE REAPER",
+        "author": "Nicholas Irving with Gary Brozek",
+        "image": null,
+        "list": "Combined Print & E-Book Nonfiction"
+    },
+    {
+        "title": "YES PLEASE",
+        "author": "Amy Poehler",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780062268341.jpeg",
+        "list": "Combined Print & E-Book Nonfiction"
+    },
+    {
+        "title": "KILLING PATTON",
+        "author": "Bill O'Reilly and Martin Dugard",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780805096699.jpg",
+        "list": "Combined Print & E-Book Nonfiction"
+    },
+    {
+        "title": "THE HEART OF EVERYTHING THAT IS",
+        "author": "Bob Drury and Tom Clavin",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781451654660.jpeg",
+        "list": "Combined Print & E-Book Nonfiction"
+    },
+    {
+        "title": "PIONEER GIRL",
+        "author": "Laura Ingalls Wilder",
+        "image": null,
+        "list": "Combined Print & E-Book Nonfiction"
+    },
+    {
+        "title": "GHETTOSIDE",
+        "author": "Jill Leovy",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780385530002.jpeg",
+        "list": "Combined Print & E-Book Nonfiction"
+    },
+    {
+        "title": "MEMORIES ARE MADE OF THIS",
+        "author": "Deana Martin with Wendy Holden",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307538260.jpeg",
+        "list": "Combined Print & E-Book Nonfiction"
+    },
+    {
+        "title": "LONE SURVIVOR",
+        "author": "Marcus Luttrell and Patrick Robinson",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316067607.jpg",
+        "list": "Combined Print & E-Book Nonfiction"
+    },
+    {
+        "title": "ADVENTURE OF ENGLISH",
+        "author": "Melvyn Bragg",
+        "image": null,
+        "list": "Combined Print & E-Book Nonfiction"
+    },
+    {
+        "title": "GOD, GUNS, GRITS AND GRAVY",
+        "author": "Mike Huckabee",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781250060990.jpeg",
+        "list": "Combined Print & E-Book Nonfiction"
+    },
+    {
+        "title": "THE CRUSADES",
+        "author": "Thomas Asbridge",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780061981364.jpeg",
+        "list": "Combined Print & E-Book Nonfiction"
+    },
+    {
+        "title": "THE IMMORTAL LIFE OF HENRIETTA LACKS",
+        "author": "Rebecca Skloot",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781400052189.jpg",
+        "list": "Combined Print & E-Book Nonfiction"
+    },
+    {
+        "title": "SUCH GOOD GIRLS",
+        "author": "R D Rosen",
+        "image": null,
+        "list": "Combined Print & E-Book Nonfiction"
+    },
+    {
+        "title": "THE GIRL ON THE TRAIN",
+        "author": "Paula Hawkins",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781594633669.jpeg",
+        "list": "Hardcover Fiction"
+    },
+    {
+        "title": "ALL THE LIGHT WE CANNOT SEE",
+        "author": "Anthony Doerr",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781476746609.jpg",
+        "list": "Hardcover Fiction"
+    },
+    {
+        "title": "PRIVATE VEGAS",
+        "author": "James Patterson and Maxine Paetro",
+        "image": null,
+        "list": "Hardcover Fiction"
+    },
+    {
+        "title": "GRAY MOUNTAIN",
+        "author": "John Grisham",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780385537148.jpeg",
+        "list": "Hardcover Fiction"
+    },
+    {
+        "title": "SAINT ODD",
+        "author": "Dean Koontz",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780345545886.jpeg",
+        "list": "Hardcover Fiction"
+    },
+    {
+        "title": "THE BOSTON GIRL",
+        "author": "Anita Diamant",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781439199374.jpeg",
+        "list": "Hardcover Fiction"
+    },
+    {
+        "title": "FIRST FROST",
+        "author": "Sarah Addison Allen",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781250019837.jpeg",
+        "list": "Hardcover Fiction"
+    },
+    {
+        "title": "THE ESCAPE",
+        "author": "David Baldacci",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781455521197.jpeg",
+        "list": "Hardcover Fiction"
+    },
+    {
+        "title": "BIG LITTLE LIES",
+        "author": "Liane Moriarty",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780698138636.jpeg",
+        "list": "Hardcover Fiction"
+    },
+    {
+        "title": "STATION ELEVEN",
+        "author": "Emily St John Mandel",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780385353304.jpeg",
+        "list": "Hardcover Fiction"
+    },
+    {
+        "title": "THE MIME ORDER",
+        "author": "Samantha Shannon",
+        "image": null,
+        "list": "Hardcover Fiction"
+    },
+    {
+        "title": "HOPE TO DIE",
+        "author": "James Patterson",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316210942.jpeg",
+        "list": "Hardcover Fiction"
+    },
+    {
+        "title": "COLD COLD HEART",
+        "author": "Tami Hoag",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780698157279.jpeg",
+        "list": "Hardcover Fiction"
+    },
+    {
+        "title": "INSATIABLE APPETITES",
+        "author": "Stuart Woods",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780698154155.jpeg",
+        "list": "Hardcover Fiction"
+    },
+    {
+        "title": "THE FIRST BAD MAN",
+        "author": "Miranda July",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781439172568.jpeg",
+        "list": "Hardcover Fiction"
+    },
+    {
+        "title": "THE INVENTION OF WINGS",
+        "author": "Sue Monk Kidd",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780670024780.jpg",
+        "list": "Hardcover Fiction"
+    },
+    {
+        "title": "EVERYTHING I NEVER TOLD YOU",
+        "author": "Celeste Ng",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781594205712.jpeg",
+        "list": "Hardcover Fiction"
+    },
+    {
+        "title": "LEAVING TIME",
+        "author": "Jodi Picoult",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780345544933.jpeg",
+        "list": "Hardcover Fiction"
+    },
+    {
+        "title": "THE GOLDFINCH",
+        "author": "Donna Tartt",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316248679.jpg",
+        "list": "Hardcover Fiction"
+    },
+    {
+        "title": "BURNED",
+        "author": "Karen Marie Moning",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780440339816.jpeg",
+        "list": "Hardcover Fiction"
+    },
+    {
+        "title": "BEING MORTAL",
+        "author": "Atul Gawande",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781627790550.jpg",
+        "list": "Hardcover Nonfiction"
+    },
+    {
+        "title": "PIONEER GIRL",
+        "author": "Laura Ingalls Wilder",
+        "image": null,
+        "list": "Hardcover Nonfiction"
+    },
+    {
+        "title": "YES PLEASE",
+        "author": "Amy Poehler",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780062268341.jpeg",
+        "list": "Hardcover Nonfiction"
+    },
+    {
+        "title": "GOD, GUNS, GRITS AND GRAVY",
+        "author": "Mike Huckabee",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781250060990.jpeg",
+        "list": "Hardcover Nonfiction"
+    },
+    {
+        "title": "KILLING PATTON",
+        "author": "Bill O'Reilly and Martin Dugard",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780805096699.jpg",
+        "list": "Hardcover Nonfiction"
+    },
+    {
+        "title": "THE REAPER",
+        "author": "Nicholas Irving with Gary Brozek",
+        "image": null,
+        "list": "Hardcover Nonfiction"
+    },
+    {
+        "title": "WHAT IF?",
+        "author": "Randall Munroe",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780544272644.jpeg",
+        "list": "Hardcover Nonfiction"
+    },
+    {
+        "title": "GHETTOSIDE",
+        "author": "Jill Leovy",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780385530002.jpeg",
+        "list": "Hardcover Nonfiction"
+    },
+    {
+        "title": "NOT THAT KIND OF GIRL",
+        "author": "Lena Dunham",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780812995008.jpeg",
+        "list": "Hardcover Nonfiction"
+    },
+    {
+        "title": "DEEP DOWN DARK",
+        "author": "Héctor Tobar",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780374709204.jpeg",
+        "list": "Hardcover Nonfiction"
+    },
+    {
+        "title": "AMERICA'S BITTER PILL",
+        "author": "Steven Brill",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780812996968.jpeg",
+        "list": "Hardcover Nonfiction"
+    },
+    {
+        "title": "41",
+        "author": "George W Bush",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780553447798.jpg",
+        "list": "Hardcover Nonfiction"
+    },
+    {
+        "title": "LEAVING BEFORE THE RAINS COME",
+        "author": "Alexandra Fuller",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780698145610.jpeg",
+        "list": "Hardcover Nonfiction"
+    },
+    {
+        "title": "GUANTÁNAMO DIARY",
+        "author": "Mohamedou Ould Slahi,",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316328685.jpeg",
+        "list": "Hardcover Nonfiction"
+    },
+    {
+        "title": "I AM MALALA",
+        "author": "Malala Yousafzai with Christina Lamb",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316322409.jpg",
+        "list": "Hardcover Nonfiction"
+    },
+    {
+        "title": "GATEWAY TO FREEDOM",
+        "author": "Eric Foner",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780393244076.jpeg",
+        "list": "Hardcover Nonfiction"
+    },
+    {
+        "title": "THE TEENAGE BRAIN",
+        "author": "Frances E Jensen with Amy Ellis Nutt",
+        "image": null,
+        "list": "Hardcover Nonfiction"
+    },
+    {
+        "title": "YOU CAN'T MAKE THIS UP",
+        "author": "Al Michaels with L Jon Wertheim",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780062314987.jpg",
+        "list": "Hardcover Nonfiction"
+    },
+    {
+        "title": "SMALL VICTORIES",
+        "author": "Anne Lamott",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780698189744.jpeg",
+        "list": "Hardcover Nonfiction"
+    },
+    {
+        "title": "HUMANS OF NEW YORK",
+        "author": "Brandon Stanton",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781250038821.jpg",
+        "list": "Hardcover Nonfiction"
+    },
+    {
+        "title": "FIFTY SHADES OF GREY",
+        "author": "E L James",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780345803481.jpg",
+        "list": "Paperback Trade Fiction"
+    },
+    {
+        "title": "GONE GIRL",
+        "author": "Gillian Flynn",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307588388.jpg",
+        "list": "Paperback Trade Fiction"
+    },
+    {
+        "title": "ORPHAN TRAIN",
+        "author": "Christina Baker Kline",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780062101204.jpg",
+        "list": "Paperback Trade Fiction"
+    },
+    {
+        "title": "STILL ALICE",
+        "author": "Lisa Genova",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781439102817.jpg",
+        "list": "Paperback Trade Fiction"
+    },
+    {
+        "title": "THE ALCHEMIST",
+        "author": "Paulo Coelho",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780061122415.jpg",
+        "list": "Paperback Trade Fiction"
+    },
+    {
+        "title": "THE MARTIAN",
+        "author": "Andy Weir",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780804139038.jpeg",
+        "list": "Paperback Trade Fiction"
+    },
+    {
+        "title": "FIFTY SHADES DARKER",
+        "author": "E L James",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780345803498.jpg",
+        "list": "Paperback Trade Fiction"
+    },
+    {
+        "title": "DARK PLACES",
+        "author": "Gillian Flynn",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307341570.jpg",
+        "list": "Paperback Trade Fiction"
+    },
+    {
+        "title": "THE STORIED LIFE OF A. J. FIKRY",
+        "author": "Gabrielle Zevin",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781616203214.jpeg",
+        "list": "Paperback Trade Fiction"
+    },
+    {
+        "title": "THE ROSIE PROJECT",
+        "author": "Graeme Simsion",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781476729091.jpg",
+        "list": "Paperback Trade Fiction"
+    },
+    {
+        "title": "FIFTY SHADES FREED",
+        "author": "E L James",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781612130606.jpg",
+        "list": "Paperback Trade Fiction"
+    },
+    {
+        "title": "UNLUCKY 13",
+        "author": "James Patterson and Maxine Paetro",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316211291.jpg",
+        "list": "Paperback Trade Fiction"
+    },
+    {
+        "title": "AMERICANAH",
+        "author": "Chimamanda Ngozi Adichie",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307455925.jpg",
+        "list": "Paperback Trade Fiction"
+    },
+    {
+        "title": "MR. MERCEDES",
+        "author": "Stephen King",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781476754468.jpg",
+        "list": "Paperback Trade Fiction"
+    },
+    {
+        "title": "SHARP OBJECTS",
+        "author": "Gillian Flynn",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307341556.jpg",
+        "list": "Paperback Trade Fiction"
+    },
+    {
+        "title": "ME BEFORE YOU",
+        "author": "Jojo Moyes",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780143124542.jpg",
+        "list": "Paperback Trade Fiction"
+    },
+    {
+        "title": "WHAT ALICE FORGOT",
+        "author": "Liane Moriarty",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780425247440.jpeg",
+        "list": "Paperback Trade Fiction"
+    },
+    {
+        "title": "THE WINTER PEOPLE",
+        "author": "Jennifer McMahon",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780385538497.jpg",
+        "list": "Paperback Trade Fiction"
+    },
+    {
+        "title": "THE LIGHT BETWEEN OCEANS",
+        "author": "M L Stedman",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781451681758.jpg",
+        "list": "Paperback Trade Fiction"
+    },
+    {
+        "title": "STILL LIFE WITH BREAD CRUMBS",
+        "author": "Anna Quindlen",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780812995756.jpeg",
+        "list": "Paperback Trade Fiction"
+    },
+    {
+        "title": "VIPER GAME",
+        "author": "Christine Feehan",
+        "image": null,
+        "list": "Paperback Mass-Market Fiction"
+    },
+    {
+        "title": "THE SECRETS OF SIR RICHARD KENWORTHY",
+        "author": "Julia Quinn",
+        "image": null,
+        "list": "Paperback Mass-Market Fiction"
+    },
+    {
+        "title": "POWER PLAY",
+        "author": "Danielle Steel",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780345530936.jpeg",
+        "list": "Paperback Mass-Market Fiction"
+    },
+    {
+        "title": "THE MARRIAGE CHARM",
+        "author": "Linda Lael Miller",
+        "image": null,
+        "list": "Paperback Mass-Market Fiction"
+    },
+    {
+        "title": "GONE GIRL",
+        "author": "Gillian Flynn",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307588388.jpg",
+        "list": "Paperback Mass-Market Fiction"
+    },
+    {
+        "title": "BOUND BY FLAMES",
+        "author": "Jeaniene Frost",
+        "image": null,
+        "list": "Paperback Mass-Market Fiction"
+    },
+    {
+        "title": "AGAINST THE SKY",
+        "author": "Kat Martin",
+        "image": null,
+        "list": "Paperback Mass-Market Fiction"
+    },
+    {
+        "title": "STILL ALICE",
+        "author": "Lisa Genova",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781439102817.jpg",
+        "list": "Paperback Mass-Market Fiction"
+    },
+    {
+        "title": "IF THE VISCOUNT FALLS",
+        "author": "Sabrina Jeffries",
+        "image": null,
+        "list": "Paperback Mass-Market Fiction"
+    },
+    {
+        "title": "NIGHT BROKEN",
+        "author": "Patricia Briggs",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781101638835.jpeg",
+        "list": "Paperback Mass-Market Fiction"
+    },
+    {
+        "title": "PRIVATE L. A.",
+        "author": "James Patterson and Mark Sullivan",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316211123.jpeg",
+        "list": "Paperback Mass-Market Fiction"
+    },
+    {
+        "title": "OUTLANDER",
+        "author": "Diana Gabaldon",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780440212560.jpg",
+        "list": "Paperback Mass-Market Fiction"
+    },
+    {
+        "title": "EYES ONLY",
+        "author": "Fern Michaels",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781420135947.jpeg",
+        "list": "Paperback Mass-Market Fiction"
+    },
+    {
+        "title": "RIVER ROAD",
+        "author": "Jayne Ann Krentz",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781101620984.jpeg",
+        "list": "Paperback Mass-Market Fiction"
+    },
+    {
+        "title": "GONE",
+        "author": "James Patterson and Michael Ledwidge",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316211017.jpg",
+        "list": "Paperback Mass-Market Fiction"
+    },
+    {
+        "title": "TEARDROP LANE",
+        "author": "Emily March",
+        "image": null,
+        "list": "Paperback Mass-Market Fiction"
+    },
+    {
+        "title": "SILVER THAW",
+        "author": "Catherine Anderson",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780451418340.jpeg",
+        "list": "Paperback Mass-Market Fiction"
+    },
+    {
+        "title": "SHARP OBJECTS",
+        "author": "Gillian Flynn",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307341556.jpg",
+        "list": "Paperback Mass-Market Fiction"
+    },
+    {
+        "title": "A GAME OF THRONES",
+        "author": "George R R Martin",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780553897845.jpg",
+        "list": "Paperback Mass-Market Fiction"
+    },
+    {
+        "title": "COP TOWN",
+        "author": "Karin Slaughter",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780345547514.jpeg",
+        "list": "Paperback Mass-Market Fiction"
+    },
+    {
+        "title": "AMERICAN SNIPER",
+        "author": "Chris Kyle with Scott McEwen and Jim DeFelice",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780062082374.jpg",
+        "list": "Paperback Nonfiction"
+    },
+    {
+        "title": "UNBROKEN",
+        "author": "Laura Hillenbrand",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781400064168.jpg",
+        "list": "Paperback Nonfiction"
+    },
+    {
+        "title": "WILD",
+        "author": "Cheryl Strayed",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307957658.jpg",
+        "list": "Paperback Nonfiction"
+    },
+    {
+        "title": "THE BOYS IN THE BOAT",
+        "author": "Daniel James Brown",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781101622742.jpg",
+        "list": "Paperback Nonfiction"
+    },
+    {
+        "title": "THE POWER OF HABIT",
+        "author": "Charles Duhigg",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780812981605.jpg",
+        "list": "Paperback Nonfiction"
+    },
+    {
+        "title": "LONE SURVIVOR",
+        "author": "Marcus Luttrell and Patrick Robinson",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316067607.jpg",
+        "list": "Paperback Nonfiction"
+    },
+    {
+        "title": "THE SIXTH EXTINCTION",
+        "author": "Elizabeth Kolbert",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780805099799.jpeg",
+        "list": "Paperback Nonfiction"
+    },
+    {
+        "title": "ALAN TURING: THE ENIGMA",
+        "author": "Andrew Hodges",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781400865123.jpeg",
+        "list": "Paperback Nonfiction"
+    },
+    {
+        "title": "THE NEW JIM CROW",
+        "author": "Michelle Alexander",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781595586438.jpg",
+        "list": "Paperback Nonfiction"
+    },
+    {
+        "title": "GHOST BOY",
+        "author": "Martin Pistorius with Megan Lloyd Davies",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781400205844.jpeg",
+        "list": "Paperback Nonfiction"
+    },
+    {
+        "title": "QUIET",
+        "author": "Susan Cain",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307452207.jpg",
+        "list": "Paperback Nonfiction"
+    },
+    {
+        "title": "10% HAPPIER",
+        "author": "Dan Harris",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780062265425.jpg",
+        "list": "Paperback Nonfiction"
+    },
+    {
+        "title": "THINKING, FAST AND SLOW",
+        "author": "Daniel Kahneman",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781429969352.jpg",
+        "list": "Paperback Nonfiction"
+    },
+    {
+        "title": "OUTLIERS",
+        "author": "Malcolm Gladwell",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316017930.jpg",
+        "list": "Paperback Nonfiction"
+    },
+    {
+        "title": "THE IMMORTAL LIFE OF HENRIETTA LACKS",
+        "author": "Rebecca Skloot",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781400052189.jpg",
+        "list": "Paperback Nonfiction"
+    },
+    {
+        "title": "IS EVERYONE HANGING OUT WITHOUT ME?",
+        "author": "Mindy Kaling",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307886286.jpg",
+        "list": "Paperback Nonfiction"
+    },
+    {
+        "title": "A BRIEF HISTORY OF TIME",
+        "author": "Stephen W Hawking",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780553380163.jpeg",
+        "list": "Paperback Nonfiction"
+    },
+    {
+        "title": "THE HEART OF EVERYTHING THAT IS",
+        "author": "Bob Drury and Tom Clavin",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781451654660.jpeg",
+        "list": "Paperback Nonfiction"
+    },
+    {
+        "title": "HOW CHILDREN SUCCEED",
+        "author": "Paul Tough",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780544104402.jpg",
+        "list": "Paperback Nonfiction"
+    },
+    {
+        "title": "BOSSYPANTS",
+        "author": "Tina Fey",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316056892.jpg",
+        "list": "Paperback Nonfiction"
+    },
+    {
+        "title": "THE GIRL ON THE TRAIN",
+        "author": "Paula Hawkins",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781594633669.jpeg",
+        "list": "E-Book Fiction"
+    },
+    {
+        "title": "PRIVATE VEGAS",
+        "author": "James Patterson and Maxine Paetro",
+        "image": null,
+        "list": "E-Book Fiction"
+    },
+    {
+        "title": "VIPER GAME",
+        "author": "Christine Feehan",
+        "image": null,
+        "list": "E-Book Fiction"
+    },
+    {
+        "title": "FIFTY SHADES OF GREY",
+        "author": "E L James",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780345803481.jpg",
+        "list": "E-Book Fiction"
+    },
+    {
+        "title": "BEAUTIFUL REDEMPTION",
+        "author": "Jamie McGuire",
+        "image": null,
+        "list": "E-Book Fiction"
+    },
+    {
+        "title": "BIG LITTLE LIES",
+        "author": "Liane Moriarty",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780698138636.jpeg",
+        "list": "E-Book Fiction"
+    },
+    {
+        "title": "ALL THE LIGHT WE CANNOT SEE",
+        "author": "Anthony Doerr",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781476746609.jpg",
+        "list": "E-Book Fiction"
+    },
+    {
+        "title": "GONE GIRL",
+        "author": "Gillian Flynn",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307588388.jpg",
+        "list": "E-Book Fiction"
+    },
+    {
+        "title": "BOUND BY FLAMES",
+        "author": "Jeaniene Frost",
+        "image": null,
+        "list": "E-Book Fiction"
+    },
+    {
+        "title": "THE SECRETS OF SIR RICHARD KENWORTHY",
+        "author": "Julia Quinn",
+        "image": null,
+        "list": "E-Book Fiction"
+    },
+    {
+        "title": "IN HIS KEEPING",
+        "author": "Maya Banks",
+        "image": null,
+        "list": "E-Book Fiction"
+    },
+    {
+        "title": "ONE NIGHT STAND",
+        "author": "J S Cooper and Helen Cooper",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781940218335.jpg",
+        "list": "E-Book Fiction"
+    },
+    {
+        "title": "THE ESCAPE",
+        "author": "David Baldacci",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781455521197.jpeg",
+        "list": "E-Book Fiction"
+    },
+    {
+        "title": "FIFTY SHADES TRILOGY",
+        "author": "E L James",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780345803573.jpg",
+        "list": "E-Book Fiction"
+    },
+    {
+        "title": "FIFTY SHADES DARKER",
+        "author": "E L James",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780345803498.jpg",
+        "list": "E-Book Fiction"
+    },
+    {
+        "title": "STILL ALICE",
+        "author": "Lisa Genova",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781439102817.jpg",
+        "list": "E-Book Fiction"
+    },
+    {
+        "title": "DARK PLACES",
+        "author": "Gillian Flynn",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307341570.jpg",
+        "list": "E-Book Fiction"
+    },
+    {
+        "title": "GRAY MOUNTAIN",
+        "author": "John Grisham",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780385537148.jpeg",
+        "list": "E-Book Fiction"
+    },
+    {
+        "title": "THE BURNING ROOM",
+        "author": "Michael Connelly",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316225939.jpeg",
+        "list": "E-Book Fiction"
+    },
+    {
+        "title": "FIREWORKS",
+        "author": "Liliana Hart",
+        "image": null,
+        "list": "E-Book Fiction"
+    },
+    {
+        "title": "AMERICAN SNIPER",
+        "author": "Chris Kyle with Scott McEwen and Jim DeFelice",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780062082374.jpg",
+        "list": "E-Book Nonfiction"
+    },
+    {
+        "title": "UNBROKEN",
+        "author": "Laura Hillenbrand",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781400064168.jpg",
+        "list": "E-Book Nonfiction"
+    },
+    {
+        "title": "WILD",
+        "author": "Cheryl Strayed",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307957658.jpg",
+        "list": "E-Book Nonfiction"
+    },
+    {
+        "title": "THE WATER IS WIDE",
+        "author": "Pat Conroy",
+        "image": null,
+        "list": "E-Book Nonfiction"
+    },
+    {
+        "title": "THE BOYS IN THE BOAT",
+        "author": "Daniel James Brown",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781101622742.jpg",
+        "list": "E-Book Nonfiction"
+    },
+    {
+        "title": "GHOST BOY",
+        "author": "Martin Pistorius with Megan Lloyd Davies",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781400205844.jpeg",
+        "list": "E-Book Nonfiction"
+    },
+    {
+        "title": "THE HEART OF EVERYTHING THAT IS",
+        "author": "Bob Drury and Tom Clavin",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781451654660.jpeg",
+        "list": "E-Book Nonfiction"
+    },
+    {
+        "title": "MEMORIES ARE MADE OF THIS",
+        "author": "Deana Martin with Wendy Holden",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307538260.jpeg",
+        "list": "E-Book Nonfiction"
+    },
+    {
+        "title": "THE REAPER",
+        "author": "Nicholas Irving with Gary Brozek",
+        "image": null,
+        "list": "E-Book Nonfiction"
+    },
+    {
+        "title": "ADVENTURE OF ENGLISH",
+        "author": "Melvyn Bragg",
+        "image": null,
+        "list": "E-Book Nonfiction"
+    },
+    {
+        "title": "THE CRUSADES",
+        "author": "Thomas Asbridge",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780061981364.jpeg",
+        "list": "E-Book Nonfiction"
+    },
+    {
+        "title": "SUCH GOOD GIRLS",
+        "author": "R D Rosen",
+        "image": null,
+        "list": "E-Book Nonfiction"
+    },
+    {
+        "title": "GHETTOSIDE",
+        "author": "Jill Leovy",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780385530002.jpeg",
+        "list": "E-Book Nonfiction"
+    },
+    {
+        "title": "KILLING PATTON",
+        "author": "Bill O'Reilly and Martin Dugard",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780805096699.jpg",
+        "list": "E-Book Nonfiction"
+    },
+    {
+        "title": "YES PLEASE",
+        "author": "Amy Poehler",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780062268341.jpeg",
+        "list": "E-Book Nonfiction"
+    },
+    {
+        "title": "LONE SURVIVOR",
+        "author": "Marcus Luttrell and Patrick Robinson",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316067607.jpg",
+        "list": "E-Book Nonfiction"
+    },
+    {
+        "title": "BEING MORTAL",
+        "author": "Atul Gawande",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781627790550.jpg",
+        "list": "E-Book Nonfiction"
+    },
+    {
+        "title": "THE IMMORTAL LIFE OF HENRIETTA LACKS",
+        "author": "Rebecca Skloot",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781400052189.jpg",
+        "list": "E-Book Nonfiction"
+    },
+    {
+        "title": "GOING CLEAR",
+        "author": "Lawrence Wright",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307700667.jpg",
+        "list": "E-Book Nonfiction"
+    },
+    {
+        "title": "THE TRUE HISTORY OF THE ELEPHANT MAN",
+        "author": "Michael Howell and Peter Ford",
+        "image": null,
+        "list": "E-Book Nonfiction"
+    },
+    {
+        "title": "IT'S ALL GOOD",
+        "author": "Gwyneth Paltrow and Julia Turshen",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781455522712.jpg",
+        "list": "Hardcover Advice & Misc."
+    },
+    {
+        "title": "THE FASTDIET",
+        "author": "Michael Mosley and Mimi Spencer",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781476734941.jpg",
+        "list": "Hardcover Advice & Misc."
+    },
+    {
+        "title": "DARING GREATLY",
+        "author": "Brene Brown",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781592407330.jpg",
+        "list": "Hardcover Advice & Misc."
+    },
+    {
+        "title": "LIFE CODE",
+        "author": "Phil McGraw",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780985462734.jpg",
+        "list": "Hardcover Advice & Misc."
+    },
+    {
+        "title": "THE TAPPING SOLUTION",
+        "author": "Nick Ortner",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781401939410.jpg",
+        "list": "Hardcover Advice & Misc."
+    },
+    {
+        "title": "SHRED: THE REVOLUTIONARY DIET",
+        "author": "Ian K Smith",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781250035868.jpg",
+        "list": "Hardcover Advice & Misc."
+    },
+    {
+        "title": "WHEAT BELLY",
+        "author": "William Davis",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781609614799.jpg",
+        "list": "Hardcover Advice & Misc."
+    },
+    {
+        "title": "MAKING GOOD HABITS, BREAKING BAD HABITS",
+        "author": "Joyce Meyer",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781455517381.jpg",
+        "list": "Hardcover Advice & Misc."
+    },
+    {
+        "title": "THE KEY IS LOVE",
+        "author": "Marie Osmond with Marcia Wilkie",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780451240316.jpg",
+        "list": "Hardcover Advice & Misc."
+    },
+    {
+        "title": "ONE THING",
+        "author": "Gary Keller with Jay Papasan",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781885167774.jpg",
+        "list": "Hardcover Advice & Misc."
+    },
+    {
+        "title": "DECISIVE",
+        "author": "Chip Heath and Dan Heath",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307956392.jpg",
+        "list": "Hardcover Advice & Misc."
+    },
+    {
+        "title": "FIRSTHAND",
+        "author": "Ryan and Josh Shook",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307886293.jpg",
+        "list": "Hardcover Advice & Misc."
+    },
+    {
+        "title": "THE LEGEND OF ZELDA, HYRULE HISTORIA",
+        "author": "Akira Himekawa, Shigeru Miyamoto and others",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781616550417.jpg",
+        "list": "Hardcover Advice & Misc."
+    },
+    {
+        "title": "WHEAT BELLY COOKBOOK",
+        "author": "William Davis",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781609619367.jpg",
+        "list": "Hardcover Advice & Misc."
+    },
+    {
+        "title": "THE DRUNKEN BOTANIST",
+        "author": "Amy Stewart",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781616200466.jpg",
+        "list": "Hardcover Advice & Misc."
+    },
+    {
+        "title": "OBAMACARE SURVIVAL GUIDE",
+        "author": "Nick Tate",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780893348625.jpg",
+        "list": "Paperback Advice & Misc."
+    },
+    {
+        "title": "THE FIVE LOVE LANGUAGES",
+        "author": "Gary Chapman",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780802473158.jpg",
+        "list": "Paperback Advice & Misc."
+    },
+    {
+        "title": "THE BEAUTY DETOX FOODS",
+        "author": "Kimberly Snyder",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780373892648.jpg",
+        "list": "Paperback Advice & Misc."
+    },
+    {
+        "title": "WHAT TO EXPECT WHEN YOU'RE EXPECTING",
+        "author": "Heidi Murkoff and Sharon Mazel",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780761148579.jpg",
+        "list": "Paperback Advice & Misc."
+    },
+    {
+        "title": "THE GIFTS OF IMPERFECTION",
+        "author": "Brene Brown",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781592858491.jpg",
+        "list": "Paperback Advice & Misc."
+    },
+    {
+        "title": "FORKS OVER KNIVES - THE COOKBOOK",
+        "author": "Del Sroufe",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781615190614.jpg",
+        "list": "Paperback Advice & Misc."
+    },
+    {
+        "title": "EAT TO LIVE",
+        "author": "Joel Fuhrman",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316206648.jpg",
+        "list": "Paperback Advice & Misc."
+    },
+    {
+        "title": "THE HONEST LIFE",
+        "author": "Jessica Alba",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781609619114.jpg",
+        "list": "Paperback Advice & Misc."
+    },
+    {
+        "title": "CLEAN",
+        "author": "Alejandro Junger with Amely Greeven",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780061735325.jpg",
+        "list": "Paperback Advice & Misc."
+    },
+    {
+        "title": "THE HAPPINESS PROJECT",
+        "author": "Gretchen Rubin",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780061583261.jpg",
+        "list": "Paperback Advice & Misc."
+    },
+    {
+        "title": "PRACTICAL PALEO",
+        "author": "Diane Sanfilippo",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781936608751.jpg",
+        "list": "Paperback Advice & Misc."
+    },
+    {
+        "title": "THE UNTETHERED SOUL",
+        "author": "Michael A Singer",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781572245372.jpg",
+        "list": "Paperback Advice & Misc."
+    },
+    {
+        "title": "TO HEAVEN AND BACK",
+        "author": "Mary C Neal",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307731715.jpg",
+        "list": "Paperback Advice & Misc."
+    },
+    {
+        "title": "OUTSOURCE SMART",
+        "author": "Daven Michaels",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780071799799.jpg",
+        "list": "Paperback Advice & Misc."
+    },
+    {
+        "title": "FROM MAMA'S TABLE TO MINE",
+        "author": "Bob Deen",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780345536631.jpg",
+        "list": "Paperback Advice & Misc."
+    },
+    {
+        "title": "THE LIFE-CHANGING MAGIC OF TIDYING UP",
+        "author": "Marie Kondo",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781607747307.jpeg",
+        "list": "Advice, How-To & Miscellaneous"
+    },
+    {
+        "title": "ZILLOW TALK",
+        "author": "Spencer Rascoff and Stan Humphries",
+        "image": null,
+        "list": "Advice, How-To & Miscellaneous"
+    },
+    {
+        "title": "THE 20/20 DIET",
+        "author": "Phil McGraw",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781939457318.jpg",
+        "list": "Advice, How-To & Miscellaneous"
+    },
+    {
+        "title": "ZERO BELLY DIET",
+        "author": "David Zinczenko",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780345547958.jpeg",
+        "list": "Advice, How-To & Miscellaneous"
+    },
+    {
+        "title": "MONEY: MASTER THE GAME",
+        "author": "Tony Robbins",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781476757803.jpeg",
+        "list": "Advice, How-To & Miscellaneous"
+    },
+    {
+        "title": "MAKE IT AHEAD!",
+        "author": "Ina Garten",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307464880.jpeg",
+        "list": "Advice, How-To & Miscellaneous"
+    },
+    {
+        "title": "WHAT TO EXPECT WHEN YOU'RE EXPECTING",
+        "author": "Heidi Murkoff and Sharon Mazel",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780761148579.jpg",
+        "list": "Advice, How-To & Miscellaneous"
+    },
+    {
+        "title": "10-DAY GREEN SMOOTHIE CLEANSE",
+        "author": "J J Smith",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780982301821.jpg",
+        "list": "Advice, How-To & Miscellaneous"
+    },
+    {
+        "title": "THE FIVE LOVE LANGUAGES",
+        "author": "Gary Chapman",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780802473158.jpg",
+        "list": "Advice, How-To & Miscellaneous"
+    },
+    {
+        "title": "THUG KITCHEN",
+        "author": "Thug Kitchen",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781623363581.jpeg",
+        "list": "Advice, How-To & Miscellaneous"
+    },
+    {
+        "title": "IT STARTS WITH FOOD",
+        "author": "Dallas Hartwig and Melissa Hartwig",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781936608898.jpg",
+        "list": "Advice, How-To & Miscellaneous"
+    },
+    {
+        "title": "THE SKINNYTASTE COOKBOOK",
+        "author": "Gina Homolka with Heather K Jones",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780385345620.jpeg",
+        "list": "Advice, How-To & Miscellaneous"
+    },
+    {
+        "title": "THE MEDITERRANEAN DIET FOR BEGINNERS",
+        "author": "the staff of Rockridge Press",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781623151263.jpeg",
+        "list": "Advice, How-To & Miscellaneous"
+    },
+    {
+        "title": "THE MOTIVATION MANIFESTO",
+        "author": "Brendon Burchard",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781401948078.jpg",
+        "list": "Advice, How-To & Miscellaneous"
+    },
+    {
+        "title": "GRAIN BRAIN",
+        "author": "David Perlmutter with Kristin Loberg",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316234801.jpg",
+        "list": "Advice, How-To & Miscellaneous"
+    },
+    {
+        "title": "CLEAN SLATE",
+        "author": "Editors of Martha Stewart Living",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307954596.jpg",
+        "list": "Advice, How-To & Miscellaneous"
+    },
+    {
+        "title": "THE FAST METABOLISM DIET",
+        "author": "Haylie Pomroy with Eve Adamson",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307986276.jpg",
+        "list": "Advice, How-To & Miscellaneous"
+    },
+    {
+        "title": "THE WORLD OF ICE AND FIRE",
+        "author": "George R R Martin, Elio M García Jr and Linda Antonsson",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780553805444.jpeg",
+        "list": "Advice, How-To & Miscellaneous"
+    },
+    {
+        "title": "THE ABSOLUTE BEST DUMP CAKE COOKBOOK",
+        "author": "Rockridge Press",
+        "image": null,
+        "list": "Advice, How-To & Miscellaneous"
+    },
+    {
+        "title": "THE AUTOIMMUNE SOLUTION",
+        "author": "Amy Myers",
+        "image": null,
+        "list": "Advice, How-To & Miscellaneous"
+    },
+    {
+        "title": "THE BOOK WITH NO PICTURES",
+        "author": "B J Novak",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780803741713.jpeg",
+        "list": "Children's Picture Books"
+    },
+    {
+        "title": "THE DAY THE CRAYONS QUIT",
+        "author": "Drew Daywalt",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780399255373.jpg",
+        "list": "Children's Picture Books"
+    },
+    {
+        "title": "DRAGONS LOVE TACOS",
+        "author": "Adam Rubin",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780803736801.jpg",
+        "list": "Children's Picture Books"
+    },
+    {
+        "title": "PRESS HERE",
+        "author": "Hervé Tullet",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780811879545.jpg",
+        "list": "Children's Picture Books"
+    },
+    {
+        "title": "ROSIE REVERE, ENGINEER",
+        "author": "Andrea Beaty",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781419708459.jpg",
+        "list": "Children's Picture Books"
+    },
+    {
+        "title": "GOODNIGHT, GOODNIGHT, CONSTRUCTION SITE",
+        "author": "Sherri Duskey Rinker and Tom Lichtenheld",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780811877824.jpg",
+        "list": "Children's Picture Books"
+    },
+    {
+        "title": "THE PIGEON NEEDS A BATH!",
+        "author": "Mo Willems",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781423190875.jpg",
+        "list": "Children's Picture Books"
+    },
+    {
+        "title": "ONCE UPON AN ALPHABET",
+        "author": "Oliver Jeffers",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780399167911.jpeg",
+        "list": "Children's Picture Books"
+    },
+    {
+        "title": "SAM & DAVE DIG A HOLE",
+        "author": "Mac Barnett",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780763662295.jpeg",
+        "list": "Children's Picture Books"
+    },
+    {
+        "title": "MY NEW FRIEND IS SO FUN!",
+        "author": "Mo Willems",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781423179580.jpg",
+        "list": "Children's Picture Books"
+    },
+    {
+        "title": "LEGO NINJAGO CHARACTER ENCYCLOPEDIA",
+        "author": "Claire Sipi",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780756698126.jpg",
+        "list": "Children's Chapter Books"
+    },
+    {
+        "title": "LINCOLN'S LAST DAYS",
+        "author": "Bill O'Reilly and Dwight Jon Zimmerman",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780805096750.jpg",
+        "list": "Children's Chapter Books"
+    },
+    {
+        "title": "THE FAULT IN OUR STARS",
+        "author": "John Green",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781101569184.jpg",
+        "list": "Children's Chapter Books"
+    },
+    {
+        "title": "THE LEGO IDEAS BOOK",
+        "author": "Daniel Lipkowitz",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780756686062.jpg",
+        "list": "Children's Chapter Books"
+    },
+    {
+        "title": "‘WHO COULD THAT BE AT THIS HOUR?’",
+        "author": "Lemony Snicket",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316123082.jpg",
+        "list": "Children's Chapter Books"
+    },
+    {
+        "title": "WONDER",
+        "author": "R J Palacio",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780375869020.jpg",
+        "list": "Children's Chapter Books"
+    },
+    {
+        "title": "THE DEMIGOD DIARIES",
+        "author": "Rick Riordan",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781423163008.jpg",
+        "list": "Children's Chapter Books"
+    },
+    {
+        "title": "INSURGENT",
+        "author": "Veronica Roth",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780062024046.jpg",
+        "list": "Children's Chapter Books"
+    },
+    {
+        "title": "THE LEGO BOOK",
+        "author": "Daniel Lipkowitz",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780756666934.jpg",
+        "list": "Children's Chapter Books"
+    },
+    {
+        "title": "LEGO STAR WARS CHARACTER ENCYCLOPEDIA",
+        "author": "Hannah Dolan and others",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780756686970.jpg",
+        "list": "Children's Chapter Books"
+    },
+    {
+        "title": "WONDER",
+        "author": "R J Palacio",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780375869020.jpg",
+        "list": "Children's Middle Grade"
+    },
+    {
+        "title": "THE ONE AND ONLY IVAN",
+        "author": "Katherine Applegate",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780061992254.jpg",
+        "list": "Children's Middle Grade"
+    },
+    {
+        "title": "BROWN GIRL DREAMING",
+        "author": "Jacqueline Woodson",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780399252518.jpg",
+        "list": "Children's Middle Grade"
+    },
+    {
+        "title": "I AM MALALA",
+        "author": "Malala Yousafzai with Patricia McCormick",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316327930.jpeg",
+        "list": "Children's Middle Grade"
+    },
+    {
+        "title": "THE CARE AND KEEPING OF YOU 1",
+        "author": "Valorie Schaefer",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781609580834.jpg",
+        "list": "Children's Middle Grade"
+    },
+    {
+        "title": "OUT OF MY MIND",
+        "author": "Sharon M Draper",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781416971719.jpg",
+        "list": "Children's Middle Grade"
+    },
+    {
+        "title": "THE TERRIBLE TWO",
+        "author": "Mac Barnett and Jory John",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781419714917.jpeg",
+        "list": "Children's Middle Grade"
+    },
+    {
+        "title": "THE FOURTEENTH GOLDFISH",
+        "author": "Jennifer L Holm",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780375870644.jpeg",
+        "list": "Children's Middle Grade"
+    },
+    {
+        "title": "A LONG WALK TO WATER",
+        "author": "Linda Sue Park",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780547577319.jpg",
+        "list": "Children's Middle Grade"
+    },
+    {
+        "title": "HOUSE OF ROBOTS",
+        "author": "James Patterson and Chris Grabenstein",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316405911.jpeg",
+        "list": "Children's Middle Grade"
+    },
+    {
+        "title": "THE CARE AND KEEPING OF YOU 2",
+        "author": "Cara Natterson",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781609580421.jpg",
+        "list": "Children's Middle Grade"
+    },
+    {
+        "title": "STELLA BY STARLIGHT",
+        "author": "Sharon M Draper",
+        "image": null,
+        "list": "Children's Middle Grade"
+    },
+    {
+        "title": "BOOK OF THE DEAD",
+        "author": "Michael Northrop",
+        "image": null,
+        "list": "Children's Middle Grade"
+    },
+    {
+        "title": "THE PRINCESS IN BLACK",
+        "author": "Shannon Hale and Dean Hale",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780763665104.jpeg",
+        "list": "Children's Middle Grade"
+    },
+    {
+        "title": "ESCAPE FROM MR. LEMONCELLO'S LIBRARY",
+        "author": "Chris Grabenstein",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780375870897.jpg",
+        "list": "Children's Middle Grade"
+    },
+    {
+        "title": "THE FAULT IN OUR STARS",
+        "author": "John Green",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781101569184.jpg",
+        "list": "Young Adult"
+    },
+    {
+        "title": "IF I STAY",
+        "author": "Gayle Forman",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780142415436.jpg",
+        "list": "Young Adult"
+    },
+    {
+        "title": "LOOKING FOR ALASKA",
+        "author": "John Green",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780142402511.jpg",
+        "list": "Young Adult"
+    },
+    {
+        "title": "PAPER TOWNS",
+        "author": "John Green",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780142414934.jpg",
+        "list": "Young Adult"
+    },
+    {
+        "title": "WHERE SHE WENT",
+        "author": "Gayle Forman",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781101476321.jpg",
+        "list": "Young Adult"
+    },
+    {
+        "title": "WE WERE LIARS",
+        "author": "E Lockhart",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780375984402.jpg",
+        "list": "Young Adult"
+    },
+    {
+        "title": "I WAS HERE",
+        "author": "Gayle Forman",
+        "image": null,
+        "list": "Young Adult"
+    },
+    {
+        "title": "FIREFIGHT",
+        "author": "Brandon Sanderson",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780449818404.jpeg",
+        "list": "Young Adult"
+    },
+    {
+        "title": "THE BOOK THIEF",
+        "author": "Markus Zusak",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780375842207.jpg",
+        "list": "Young Adult"
+    },
+    {
+        "title": "UNBROKEN",
+        "author": "Laura Hillenbrand",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780385742511.jpeg",
+        "list": "Young Adult"
+    },
+    {
+        "title": "THIRTEEN REASONS WHY",
+        "author": "Jay Asher",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781595141880.jpg",
+        "list": "Young Adult"
+    },
+    {
+        "title": "ELEANOR AND PARK",
+        "author": "Rainbow Rowell",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781250012579.jpg",
+        "list": "Young Adult"
+    },
+    {
+        "title": "THE ABSOLUTELY TRUE DIARY OF A PART-TIME INDIAN",
+        "author": "Sherman Alexie and Ellen Forney",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316013697.jpg",
+        "list": "Young Adult"
+    },
+    {
+        "title": "MISS PEREGRINE'S HOME FOR PECULIAR CHILDREN",
+        "author": "Ransom Riggs",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781594746031.jpg",
+        "list": "Young Adult"
+    },
+    {
+        "title": "AN ABUNDANCE OF KATHERINES",
+        "author": "John Green",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780142410707.jpg",
+        "list": "Young Adult"
+    },
+    {
+        "title": "THE PERKS OF BEING A WALLFLOWER",
+        "author": "Stephen Chbosky",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781451696196.jpg",
+        "list": "Children's Paperback Books"
+    },
+    {
+        "title": "ONE DIRECTION: DARE TO DREAM",
+        "author": "the members of One Direction",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780062213426.jpg",
+        "list": "Children's Paperback Books"
+    },
+    {
+        "title": "DIVERGENT",
+        "author": "Veronica Roth",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780062024039.jpg",
+        "list": "Children's Paperback Books"
+    },
+    {
+        "title": "LOOKING FOR ALASKA",
+        "author": "John Green",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780142402511.jpg",
+        "list": "Children's Paperback Books"
+    },
+    {
+        "title": "MIDDLE SCHOOL, THE WORST YEARS OF MY LIFE",
+        "author": "James Patterson and Chris Tebbetts",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316101875.jpg",
+        "list": "Children's Paperback Books"
+    },
+    {
+        "title": "THE BOOK THIEF",
+        "author": "Markus Zusak",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780375842207.jpg",
+        "list": "Children's Paperback Books"
+    },
+    {
+        "title": "THIRTEEN REASONS WHY",
+        "author": "Jay Asher",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781595141880.jpg",
+        "list": "Children's Paperback Books"
+    },
+    {
+        "title": "THE ABSOLUTELY TRUE DIARY OF A PART-TIME INDIAN",
+        "author": "Sherman Alexie and Ellen Forney",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316013697.jpg",
+        "list": "Children's Paperback Books"
+    },
+    {
+        "title": "WILDWOOD",
+        "author": "Colin Meloy",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780062024701.jpg",
+        "list": "Children's Paperback Books"
+    },
+    {
+        "title": "OUT OF MY MIND",
+        "author": "Sharon M Draper",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781416971719.jpg",
+        "list": "Children's Paperback Books"
+    },
+    {
+        "title": "THE MAZE RUNNER",
+        "author": "James Dashner",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780385737951.jpg",
+        "list": "Children's Series"
+    },
+    {
+        "title": "LUNAR CHRONICLES",
+        "author": "Marissa Meyer",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781250053183.jpeg",
+        "list": "Children's Series"
+    },
+    {
+        "title": "DIVERGENT",
+        "author": "Veronica Roth",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780062024039.jpg",
+        "list": "Children's Series"
+    },
+    {
+        "title": "DIARY OF A WIMPY KID",
+        "author": "Jeff Kinney",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781419711329.jpg",
+        "list": "Children's Series"
+    },
+    {
+        "title": "I FUNNY",
+        "author": "James Patterson and Chris Grabenstein",
+        "image": null,
+        "list": "Children's Series"
+    },
+    {
+        "title": "THE SELECTION",
+        "author": "Kiera Cass",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780062060013.jpg",
+        "list": "Children's Series"
+    },
+    {
+        "title": "GIVER QUARTET",
+        "author": "Lois Lowry",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780440237686.jpg",
+        "list": "Children's Series"
+    },
+    {
+        "title": "HEROES OF OLYMPUS",
+        "author": "Rick Riordan",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781423155164.jpg",
+        "list": "Children's Series"
+    },
+    {
+        "title": "PERCY JACKSON & THE OLYMPIANS",
+        "author": "Rick Riordan",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781423131892.jpg",
+        "list": "Children's Series"
+    },
+    {
+        "title": "DORK DIARIES",
+        "author": "Rachel Renée Russell",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781442487673.jpg",
+        "list": "Children's Series"
+    },
+    {
+        "title": "CAN'T WE TALK ABOUT SOMETHING MORE PLEASANT?",
+        "author": "Roz Chast",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781608198061.jpg",
+        "list": "Hardcover Graphic Books"
+    },
+    {
+        "title": "DEATH OF WOLVERINE",
+        "author": "Charles Soule and Steve McNiven",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780785193517.jpeg",
+        "list": "Hardcover Graphic Books"
+    },
+    {
+        "title": "SECONDS",
+        "author": "Bryan Lee O'Malley",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780345529374.jpg",
+        "list": "Hardcover Graphic Books"
+    },
+    {
+        "title": "HERE",
+        "author": "Richard McGuire",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780375406508.jpeg",
+        "list": "Hardcover Graphic Books"
+    },
+    {
+        "title": "AMERICAN VAMPIRE, VOL. 7",
+        "author": "Scott Snyder and Rafael Albuquerque",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781401248826.jpeg",
+        "list": "Hardcover Graphic Books"
+    },
+    {
+        "title": "FATHERLAND",
+        "author": "Nina Bunjevac",
+        "image": null,
+        "list": "Hardcover Graphic Books"
+    },
+    {
+        "title": "MICHAEL JORDAN: BULL ON PARADE",
+        "author": "Wilfred Santiago",
+        "image": null,
+        "list": "Hardcover Graphic Books"
+    },
+    {
+        "title": "THE BEST AMERICAN COMICS 2014",
+        "author": "Scott McCloud and others",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780544106000.jpeg",
+        "list": "Hardcover Graphic Books"
+    },
+    {
+        "title": "SAGA: DELUXE EDITION, VOL. 1",
+        "author": "Brian K Vaughan and Fiona Staples",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781632150783.jpeg",
+        "list": "Hardcover Graphic Books"
+    },
+    {
+        "title": "THE GIGANTIC BEARD THAT WAS EVIL",
+        "author": "Stephen Collins",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781250050397.jpeg",
+        "list": "Hardcover Graphic Books"
+    },
+    {
+        "title": "SISTERS",
+        "author": "Raina Telgemeier",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780545540605.jpeg",
+        "list": "Paperback Graphic Books"
+    },
+    {
+        "title": "DRAMA",
+        "author": "Raina Telgemeier",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780545326995.jpg",
+        "list": "Paperback Graphic Books"
+    },
+    {
+        "title": "SMILE",
+        "author": "Raina Telgemeier",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780545132060.jpg",
+        "list": "Paperback Graphic Books"
+    },
+    {
+        "title": "MARCH: BOOK TWO",
+        "author": "John Lewis, Andrew Aydin and Nate Powell",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781603094009.jpeg",
+        "list": "Paperback Graphic Books"
+    },
+    {
+        "title": "SAGA, VOL. 4",
+        "author": "Brian K Vaughan and Fiona Staples",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781632150776.jpg",
+        "list": "Paperback Graphic Books"
+    },
+    {
+        "title": "PERSEPOLIS",
+        "author": "Marjane Satrapi",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780375714573.jpg",
+        "list": "Paperback Graphic Books"
+    },
+    {
+        "title": "MS. MARVEL, VOL. 1",
+        "author": "G Willow Wilson and Adrian Alphona",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780785190219.jpeg",
+        "list": "Paperback Graphic Books"
+    },
+    {
+        "title": "ARES: BRINGER OF WAR",
+        "author": "George O'Connor",
+        "image": null,
+        "list": "Paperback Graphic Books"
+    },
+    {
+        "title": "MARCH: BOOK ONE",
+        "author": "John Lewis, Andrew Aydin and Nate Powell",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781603093002.jpg",
+        "list": "Paperback Graphic Books"
+    },
+    {
+        "title": "FUN HOME",
+        "author": "Alison Bechdel",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780618871711.jpg",
+        "list": "Paperback Graphic Books"
+    },
+    {
+        "title": "AKAME GA KILL!, VOL. 1",
+        "author": "Takahiro and Tetsuya Tashiro",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316259460.jpeg",
+        "list": "Manga"
+    },
+    {
+        "title": "SOUL EATER, VOL. 24",
+        "author": "Atsushi Ohkubo",
+        "image": null,
+        "list": "Manga"
+    },
+    {
+        "title": "BLACK BUTLER, VOL. 19",
+        "author": "Yana Toboso",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316259408.jpeg",
+        "list": "Manga"
+    },
+    {
+        "title": "FAIRY TAIL, VOL. 46",
+        "author": "Hiro Mashima",
+        "image": null,
+        "list": "Manga"
+    },
+    {
+        "title": "SWORD ART ONLINE: PROGRESSIVE, VOL. 1",
+        "author": "Reki Kawahara and Kiseki Himura",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316259378.jpeg",
+        "list": "Manga"
+    },
+    {
+        "title": "NORAGAMI, VOL. 3",
+        "author": "Adachitoka",
+        "image": null,
+        "list": "Manga"
+    },
+    {
+        "title": "UNOFFICIAL HATSUNE MIX",
+        "author": "KEI",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781616554125.jpeg",
+        "list": "Manga"
+    },
+    {
+        "title": "ASSASSINATION CLASSROOM, VOL. 1",
+        "author": "Yusei Matsui",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781421576077.jpeg",
+        "list": "Manga"
+    },
+    {
+        "title": "DEADMAN WONDERLAND, VOL. 2",
+        "author": "Jinsei Katoka and Kazuma Kondou",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781421564104.jpg",
+        "list": "Manga"
+    },
+    {
+        "title": "THE SEVEN DEADLY SINS, VOL. 6",
+        "author": "Nakaba Suzuki",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781612629315.jpeg",
+        "list": "Manga"
+    },
+    {
+        "title": "THE HIT",
+        "author": "David Baldacci",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781455521289.jpg",
+        "list": "Combined Hardcover & Paperback Fiction"
+    },
+    {
+        "title": "WHISKEY BEACH",
+        "author": "Nora Roberts",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780399159893.jpg",
+        "list": "Combined Hardcover & Paperback Fiction"
+    },
+    {
+        "title": "FLY AWAY",
+        "author": "Kristin Hannah",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780312577216.jpg",
+        "list": "Combined Hardcover & Paperback Fiction"
+    },
+    {
+        "title": "PARIS",
+        "author": "Edward Rutherfurd",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780385535304.jpg",
+        "list": "Combined Hardcover & Paperback Fiction"
+    },
+    {
+        "title": "LIFE AFTER LIFE",
+        "author": "Kate Atkinson",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316176484.jpg",
+        "list": "Combined Hardcover & Paperback Fiction"
+    },
+    {
+        "title": "BEAUTIFUL RUINS",
+        "author": "Jess Walter",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780061928123.jpg",
+        "list": "Combined Hardcover & Paperback Fiction"
+    },
+    {
+        "title": "WEDDING NIGHT",
+        "author": "Sophie Kinsella",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780812993844.jpg",
+        "list": "Combined Hardcover & Paperback Fiction"
+    },
+    {
+        "title": "DADDY'S GONE A HUNTING",
+        "author": "Mary Higgins Clark",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781451668964.jpg",
+        "list": "Combined Hardcover & Paperback Fiction"
+    },
+    {
+        "title": "GONE GIRL",
+        "author": "Gillian Flynn",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307588388.jpg",
+        "list": "Combined Hardcover & Paperback Fiction"
+    },
+    {
+        "title": "THE BEST OF ME",
+        "author": "Nicholas Sparks",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780446547642.jpg",
+        "list": "Combined Hardcover & Paperback Fiction"
+    },
+    {
+        "title": "A GAME OF THRONES",
+        "author": "George R R Martin",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780553897845.jpg",
+        "list": "Combined Hardcover & Paperback Fiction"
+    },
+    {
+        "title": "WORLD WAR Z",
+        "author": "Max Brooks",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307351937.jpg",
+        "list": "Combined Hardcover & Paperback Fiction"
+    },
+    {
+        "title": "FIFTY SHADES OF GREY",
+        "author": "E L James",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780345803481.jpg",
+        "list": "Combined Hardcover & Paperback Fiction"
+    },
+    {
+        "title": "THE BLACK BOX",
+        "author": "Michael Connelly",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316069441.jpg",
+        "list": "Combined Hardcover & Paperback Fiction"
+    },
+    {
+        "title": "THE BURGESS BOYS",
+        "author": "Elizabeth Strout",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781400067688.jpg",
+        "list": "Combined Hardcover & Paperback Fiction"
+    },
+    {
+        "title": "THE MYSTERY WOMAN",
+        "author": "Amanda Quick",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781101621172.jpg",
+        "list": "Combined Hardcover & Paperback Fiction"
+    },
+    {
+        "title": "DON'T GO",
+        "author": "Lisa Scottoline",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781250025999.jpg",
+        "list": "Combined Hardcover & Paperback Fiction"
+    },
+    {
+        "title": "CALICO JOE",
+        "author": "John Grisham",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780385536080.jpg",
+        "list": "Combined Hardcover & Paperback Fiction"
+    },
+    {
+        "title": "THE FORGOTTEN",
+        "author": "David Baldacci",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781455523153.jpg",
+        "list": "Combined Hardcover & Paperback Fiction"
+    },
+    {
+        "title": "THE INTERESTINGS",
+        "author": "Meg Wolitzer",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781594488399.jpg",
+        "list": "Combined Hardcover & Paperback Fiction"
+    },
+    {
+        "title": "LET'S EXPLORE DIABETES WITH OWLS",
+        "author": "David Sedaris",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316125680.jpg",
+        "list": "Combined Hardcover & Paperback Nonfiction"
+    },
+    {
+        "title": "LEAN IN",
+        "author": "Sheryl Sandberg with Nell Scovell",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780385349956.jpg",
+        "list": "Combined Hardcover & Paperback Nonfiction"
+    },
+    {
+        "title": "PROOF OF HEAVEN",
+        "author": "Eben Alexander",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781451695199.jpg",
+        "list": "Combined Hardcover & Paperback Nonfiction"
+    },
+    {
+        "title": "COOKED",
+        "author": "Michael Pollan",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781594204210.jpg",
+        "list": "Combined Hardcover & Paperback Nonfiction"
+    },
+    {
+        "title": "WILD",
+        "author": "Cheryl Strayed",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307957658.jpg",
+        "list": "Combined Hardcover & Paperback Nonfiction"
+    },
+    {
+        "title": "TRIDENT K9 WARRIORS",
+        "author": "Michael Ritland with Gary Brozek",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781250024978.jpg",
+        "list": "Combined Hardcover & Paperback Nonfiction"
+    },
+    {
+        "title": "WAKING UP IN HEAVEN",
+        "author": "Crystal McVea",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781476711881.jpg",
+        "list": "Combined Hardcover & Paperback Nonfiction"
+    },
+    {
+        "title": "AMERICA THE BEAUTIFUL",
+        "author": "Ben Carson with Candy Carson",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780310330714.jpg",
+        "list": "Combined Hardcover & Paperback Nonfiction"
+    },
+    {
+        "title": "DIRTY WARS",
+        "author": "Jeremy Scahill",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781568586717.jpg",
+        "list": "Combined Hardcover & Paperback Nonfiction"
+    },
+    {
+        "title": "CARRIE AND ME",
+        "author": "Carol Burnett",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781476706412.jpg",
+        "list": "Combined Hardcover & Paperback Nonfiction"
+    },
+    {
+        "title": "AMERICAN SNIPER",
+        "author": "Chris Kyle with Scott McEwen and Jim DeFelice",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780062082374.jpg",
+        "list": "Combined Hardcover & Paperback Nonfiction"
+    },
+    {
+        "title": "MY NEXT STEP",
+        "author": "Dave Liniger with Laura Morton",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781401943417.jpg",
+        "list": "Combined Hardcover & Paperback Nonfiction"
+    },
+    {
+        "title": "QUIET",
+        "author": "Susan Cain",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307452207.jpg",
+        "list": "Combined Hardcover & Paperback Nonfiction"
+    },
+    {
+        "title": "THE NEW DIGITAL AGE",
+        "author": "Eric Schmidt and Jared Cohen",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307961105.jpg",
+        "list": "Combined Hardcover & Paperback Nonfiction"
+    },
+    {
+        "title": "WAY OF THE KNIFE",
+        "author": "Mark Mazzetti",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781594204807.jpg",
+        "list": "Combined Hardcover & Paperback Nonfiction"
+    },
+    {
+        "title": "GULP",
+        "author": "Mary Roach",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780393240306.jpg",
+        "list": "Combined Hardcover & Paperback Nonfiction"
+    },
+    {
+        "title": "DUCK COMMANDERS",
+        "author": "Willie and Korie Robertson with Mark Schlabach",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781476703541.jpg",
+        "list": "Combined Hardcover & Paperback Nonfiction"
+    },
+    {
+        "title": "THINKING, FAST AND SLOW",
+        "author": "Daniel Kahneman",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781429969352.jpg",
+        "list": "Combined Hardcover & Paperback Nonfiction"
+    },
+    {
+        "title": "I'LL SEE YOU AGAIN",
+        "author": "Jackie Hance with Janice Kaplan",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781451674774.jpg",
+        "list": "Combined Hardcover & Paperback Nonfiction"
+    },
+    {
+        "title": "UNBROKEN",
+        "author": "Laura Hillenbrand",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781400064168.jpg",
+        "list": "Combined Hardcover & Paperback Nonfiction"
+    },
+    {
+        "title": "HOW TO TELL IF YOUR CAT IS PLOTTING TO KILL YOU",
+        "author": "Matthew Inman",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781449410247.jpg",
+        "list": "Animals"
+    },
+    {
+        "title": "TEAM DOG",
+        "author": "Mike Ritland with Gary Brozek",
+        "image": null,
+        "list": "Animals"
+    },
+    {
+        "title": "I COULD PEE ON THIS",
+        "author": "Francesco Marciuliano",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781452110585.jpg",
+        "list": "Animals"
+    },
+    {
+        "title": "REALLY IMPORTANT STUFF MY DOG HAS TAUGHT ME",
+        "author": "Cynthia L Copeland",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780761181798.jpeg",
+        "list": "Animals"
+    },
+    {
+        "title": "GOOD DOG",
+        "author": "the editors of Garden and Gun Magazine",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780062242358.jpg",
+        "list": "Animals"
+    },
+    {
+        "title": "THE GRUMPY GUIDE TO LIFE",
+        "author": "Grumpy Cat staff",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781452134239.jpeg",
+        "list": "Animals"
+    },
+    {
+        "title": "INSIDE OF A DOG",
+        "author": "Alexandra Horowitz",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781416583400.jpg",
+        "list": "Animals"
+    },
+    {
+        "title": "DECODING YOUR DOG",
+        "author": "the staff of the American College of Veterinary Behaviorists",
+        "image": null,
+        "list": "Animals"
+    },
+    {
+        "title": "NEVER CRY WOLF",
+        "author": "Farley Mowat",
+        "image": null,
+        "list": "Animals"
+    },
+    {
+        "title": "THE HOMING INSTINCT",
+        "author": "Bernd Heinrich",
+        "image": null,
+        "list": "Animals"
+    },
+    {
+        "title": "UNLIKELY LOVES",
+        "author": "Jennifer Holland",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780761174424.jpg",
+        "list": "Animals"
+    },
+    {
+        "title": "I KNEAD MY MOMMY",
+        "author": "Francesco Marciuliano",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781452132914.jpg",
+        "list": "Animals"
+    },
+    {
+        "title": "A STREET CAT NAMED BOB",
+        "author": "James Bowen",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781250029461.jpg",
+        "list": "Animals"
+    },
+    {
+        "title": "CHASER",
+        "author": "John W Pilley, Jr with Hilary Hinzmann",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780544334595.jpeg",
+        "list": "Animals"
+    },
+    {
+        "title": "GOOD GOOD PIG",
+        "author": "Sy Montgomery",
+        "image": null,
+        "list": "Animals"
+    },
+    {
+        "title": "MONEY: MASTER THE GAME",
+        "author": "Tony Robbins",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781476757803.jpeg",
+        "list": "Business"
+    },
+    {
+        "title": "THE INNOVATORS",
+        "author": "Walter Isaacson",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781476708713.jpeg",
+        "list": "Business"
+    },
+    {
+        "title": "OUTLIERS",
+        "author": "Malcolm Gladwell",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316017930.jpg",
+        "list": "Business"
+    },
+    {
+        "title": "THINKING, FAST AND SLOW",
+        "author": "Daniel Kahneman",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781429969352.jpg",
+        "list": "Business"
+    },
+    {
+        "title": "THE POWER OF HABIT",
+        "author": "Charles Duhigg",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780812981605.jpg",
+        "list": "Business"
+    },
+    {
+        "title": "ZERO TO ONE",
+        "author": "Peter Thiel with Blake Masters",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780804139298.jpeg",
+        "list": "Business"
+    },
+    {
+        "title": "HOW WE GOT TO NOW",
+        "author": "Steven Johnson",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780698154506.jpeg",
+        "list": "Business"
+    },
+    {
+        "title": "FLASH BOYS",
+        "author": "Michael Lewis",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780393244670.jpg",
+        "list": "Business"
+    },
+    {
+        "title": "CAPITAL IN THE TWENTY-FIRST CENTURY",
+        "author": "Thomas Piketty",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780674430006.jpg",
+        "list": "Business"
+    },
+    {
+        "title": "THIS CHANGES EVERYTHING",
+        "author": "Naomi Klein",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781451697407.png",
+        "list": "Business"
+    },
+    {
+        "title": "YES PLEASE",
+        "author": "Amy Poehler",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780062268341.jpeg",
+        "list": "Celebrities"
+    },
+    {
+        "title": "NOT THAT KIND OF GIRL",
+        "author": "Lena Dunham",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780812995008.jpeg",
+        "list": "Celebrities"
+    },
+    {
+        "title": "IS EVERYONE HANGING OUT WITHOUT ME?",
+        "author": "Mindy Kaling",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307886286.jpg",
+        "list": "Celebrities"
+    },
+    {
+        "title": "BOSSYPANTS",
+        "author": "Tina Fey",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316056892.jpg",
+        "list": "Celebrities"
+    },
+    {
+        "title": "THE ANDY COHEN DIARIES",
+        "author": "Andy Cohen",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781627792295.jpeg",
+        "list": "Celebrities"
+    },
+    {
+        "title": "CLAPTON",
+        "author": "Eric Clapton",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780767925365.jpg",
+        "list": "Celebrities"
+    },
+    {
+        "title": "MEMORIES ARE MADE OF THIS",
+        "author": "Deana Martin with Wendy Holden",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307538260.jpeg",
+        "list": "Celebrities"
+    },
+    {
+        "title": "OPRAH",
+        "author": "Kitty Kelley",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307394866.jpg",
+        "list": "Celebrities"
+    },
+    {
+        "title": "SO, ANYWAY...,",
+        "author": "John Cleese",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780385348256.jpeg",
+        "list": "Celebrities"
+    },
+    {
+        "title": "PADDLE YOUR OWN CANOE",
+        "author": "Nick Offerman",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780525954217.jpg",
+        "list": "Celebrities"
+    },
+    {
+        "title": "JOHNNY CASH",
+        "author": "Robert Hilburn",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316194754.jpeg",
+        "list": "Celebrities"
+    },
+    {
+        "title": "PUNK ROCK BLITZKRIEG",
+        "author": "Marky Ramone with Rich Herschlag",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781451687750.jpeg",
+        "list": "Celebrities"
+    },
+    {
+        "title": "JUST KIDS",
+        "author": "Patti Smith",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780060936228.jpg",
+        "list": "Celebrities"
+    },
+    {
+        "title": "JERRY LEE LEWIS",
+        "author": "Rick Bragg",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780062078223.jpg",
+        "list": "Celebrities"
+    },
+    {
+        "title": "NEIL PATRICK HARRIS: CHOOSE YOUR OWN AUTOBIOGRAPHY",
+        "author": "Neil Patrick Harris with David Javerbaum",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780385347006.jpeg",
+        "list": "Celebrities"
+    },
+    {
+        "title": "FINDING ME",
+        "author": "Michelle Knight with Michelle Burford Weinstein",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781602862579.jpg",
+        "list": "Crime and Punishment"
+    },
+    {
+        "title": "GHETTOSIDE",
+        "author": "Jill Leovy",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780385530002.jpeg",
+        "list": "Crime and Punishment"
+    },
+    {
+        "title": "ORANGE IS THE NEW BLACK",
+        "author": "Piper Kerman",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780385530262.jpg",
+        "list": "Crime and Punishment"
+    },
+    {
+        "title": "GUANTÁNAMO DIARY",
+        "author": "Mohamedou Ould Slahi,",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316328685.jpeg",
+        "list": "Crime and Punishment"
+    },
+    {
+        "title": "CHASING THE SCREAM",
+        "author": "Johann Hari",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781620408926.jpeg",
+        "list": "Crime and Punishment"
+    },
+    {
+        "title": "JUST MERCY",
+        "author": "Bryan Stevenson",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780812994520.jpeg",
+        "list": "Crime and Punishment"
+    },
+    {
+        "title": "LYING IN WAIT",
+        "author": "Ann Rule",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781451648317.jpeg",
+        "list": "Crime and Punishment"
+    },
+    {
+        "title": "PILGRIM'S WILDERNESS",
+        "author": "Tom Kizzia",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307587848.jpg",
+        "list": "Crime and Punishment"
+    },
+    {
+        "title": "SEX. MURDER. MYSTERY.",
+        "author": "Gregg Olsen",
+        "image": null,
+        "list": "Crime and Punishment"
+    },
+    {
+        "title": "ANNE PERRY AND THE MURDER OF THE CENTURY",
+        "author": "Peter Graham",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781626363052.jpeg",
+        "list": "Crime and Punishment"
+    },
+    {
+        "title": "KITTY GENOVESE",
+        "author": "Catherine Pelonero",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781629140438.jpg",
+        "list": "Crime and Punishment"
+    },
+    {
+        "title": "AMERICAN GUN",
+        "author": "Chris Kyle with WIlliam Noyle",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780062242730.jpg",
+        "list": "Crime and Punishment"
+    },
+    {
+        "title": "FOXCATCHER",
+        "author": "Mark Schultz with David Thomas",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780698188709.jpeg",
+        "list": "Crime and Punishment"
+    },
+    {
+        "title": "STARVATION HEIGHTS",
+        "author": "Gregg Olsen",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307238399.jpeg",
+        "list": "Crime and Punishment"
+    },
+    {
+        "title": "WICKED TAKES THE WITNESS STAND",
+        "author": "Mardi Link",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780472051694.jpg",
+        "list": "Crime and Punishment"
+    },
+    {
+        "title": "PIONEER GIRL",
+        "author": "Laura Ingalls Wilder",
+        "image": null,
+        "list": "Culture"
+    },
+    {
+        "title": "THE WATER IS WIDE",
+        "author": "Pat Conroy",
+        "image": null,
+        "list": "Culture"
+    },
+    {
+        "title": "ADVENTURE OF ENGLISH",
+        "author": "Melvyn Bragg",
+        "image": null,
+        "list": "Culture"
+    },
+    {
+        "title": "AS YOU WISH",
+        "author": "Cary Elwes with Joe Layden",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781476764030.jpeg",
+        "list": "Culture"
+    },
+    {
+        "title": "SILVER SCREEN FIEND",
+        "author": "Patton Oswalt",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781451673210.jpeg",
+        "list": "Culture"
+    },
+    {
+        "title": "THE MEANING OF HUMAN EXISTENCE",
+        "author": "Edward O Wilson",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780871401007.jpg",
+        "list": "Culture"
+    },
+    {
+        "title": "BAD FEMINIST",
+        "author": "Roxane Gay",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780062282712.jpeg",
+        "list": "Culture"
+    },
+    {
+        "title": "THE BEST AMERICAN ESSAYS 2014",
+        "author": "edited  John Jeremiah Sullivan; series editor Robert Atwan",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780544309906.jpeg",
+        "list": "Culture"
+    },
+    {
+        "title": "SONS OF ANARCHY",
+        "author": "Tara Bennett",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781618931276.jpeg",
+        "list": "Culture"
+    },
+    {
+        "title": "HOW PARIS BECAME PARIS",
+        "author": "Joan DeJean",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781620401132.jpeg",
+        "list": "Culture"
+    },
+    {
+        "title": "HOW WE GOT TO NOW",
+        "author": "Steven Johnson",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780698154506.jpeg",
+        "list": "Culture"
+    },
+    {
+        "title": "LOST IN TRANSLATION",
+        "author": "Ella Frances Sanders",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781607747109.jpeg",
+        "list": "Culture"
+    },
+    {
+        "title": "ESSAYS AFTER EIGHTY",
+        "author": "Donald Hall",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780544287044.jpg",
+        "list": "Culture"
+    },
+    {
+        "title": "PUNK ROCK BLITZKRIEG",
+        "author": "Marky Ramone with Rich Herschlag",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781451687750.jpeg",
+        "list": "Culture"
+    },
+    {
+        "title": "THE SENSE OF STYLE",
+        "author": "Steven Pinker",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780670025855.jpeg",
+        "list": "Culture"
+    },
+    {
+        "title": "THEY SAY / I SAY",
+        "author": "Gerald Graff and Cathy Birkenstein",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780393935844.jpeg",
+        "list": "Education"
+    },
+    {
+        "title": "I AM MALALA",
+        "author": "Malala Yousafzai with Christina Lamb",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316322409.jpg",
+        "list": "Education"
+    },
+    {
+        "title": "THE WATER IS WIDE",
+        "author": "Pat Conroy",
+        "image": null,
+        "list": "Education"
+    },
+    {
+        "title": "A SHORT HISTORY OF THE WORLD",
+        "author": "Christopher Lascelles",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780957111615.jpg",
+        "list": "Education"
+    },
+    {
+        "title": "EVERYTHING'S AN ARGUMENT",
+        "author": "Andrea A Lunsford, John J Ruszkiewicz and Keith Walters",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781457606069.jpeg",
+        "list": "Education"
+    },
+    {
+        "title": "THE SMARTEST KIDS IN THE WORLD",
+        "author": "Amanda Ripley",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781451654448.jpg",
+        "list": "Education"
+    },
+    {
+        "title": "TEACH LIKE A CHAMPION 2. 0",
+        "author": "Doug Lemov",
+        "image": null,
+        "list": "Education"
+    },
+    {
+        "title": "WITHOUT YOU, THERE IS NO US",
+        "author": "Suki Kim",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307720672.jpeg",
+        "list": "Education"
+    },
+    {
+        "title": "SPARE PARTS",
+        "author": "Joshua Davis",
+        "image": null,
+        "list": "Education"
+    },
+    {
+        "title": "THE TEENAGE BRAIN",
+        "author": "Frances E Jensen with Amy Ellis Nutt",
+        "image": null,
+        "list": "Education"
+    },
+    {
+        "title": "THE LAST LECTURE",
+        "author": "Randy Pausch with Jeffrey Zaslow",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781401323257.jpg",
+        "list": "Education"
+    },
+    {
+        "title": "HOW CHILDREN SUCCEED",
+        "author": "Paul Tough",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780544104402.jpg",
+        "list": "Education"
+    },
+    {
+        "title": "COUNSELING THE CULTURALLY DIVERSE",
+        "author": "Derald Wing Sue and David Sue",
+        "image": null,
+        "list": "Education"
+    },
+    {
+        "title": "WHAT WE SEE WHEN WE READ",
+        "author": "Peter Mendelsund",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780804171632.jpeg",
+        "list": "Education"
+    },
+    {
+        "title": "DATACLYSM",
+        "author": "Christian Rudder",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780385347389.jpeg",
+        "list": "Education"
+    },
+    {
+        "title": "ALAN TURING: THE ENIGMA",
+        "author": "Andrew Hodges",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781400865123.jpeg",
+        "list": "Espionage"
+    },
+    {
+        "title": "THE BRIGADE",
+        "author": "Howard Blum",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780061980848.jpeg",
+        "list": "Espionage"
+    },
+    {
+        "title": "GEORGE WASHINGTON'S SECRET SIX",
+        "author": "Brian Kilmeade and Don Yaeger",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780698137653.jpg",
+        "list": "Espionage"
+    },
+    {
+        "title": "CYBER WAR",
+        "author": "Richard A Clarke and Robert Knake",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780061962233.jpg",
+        "list": "Espionage"
+    },
+    {
+        "title": "THE GOOD SPY",
+        "author": "Kai Bird",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307889775.jpeg",
+        "list": "Espionage"
+    },
+    {
+        "title": "A SPY AMONG FRIENDS",
+        "author": "Ben Macintyre",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780804136631.jpeg",
+        "list": "Espionage"
+    },
+    {
+        "title": "OPERATION PAPERCLIP",
+        "author": "Annie Jacobsen",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316221047.jpeg",
+        "list": "Espionage"
+    },
+    {
+        "title": "WORTHY FIGHTS",
+        "author": "Leon Panetta with Jim Newton",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780698152748.jpeg",
+        "list": "Espionage"
+    },
+    {
+        "title": "LIAR, TEMPTRESS, SOLDIER, SPY",
+        "author": "Karen Abbott",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780062092892.jpg",
+        "list": "Espionage"
+    },
+    {
+        "title": "THE NAZIS NEXT DOOR",
+        "author": "Eric Lichtblau",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780547669199.jpeg",
+        "list": "Espionage"
+    },
+    {
+        "title": "THE FUTURE, DECLASSIFIED",
+        "author": "Mathew Burrows",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781137279552.jpeg",
+        "list": "Espionage"
+    },
+    {
+        "title": "AGENT STORM",
+        "author": "Morton Storm with Paul Cruickshank and Tim Lister",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780802123145.jpg",
+        "list": "Espionage"
+    },
+    {
+        "title": "GOOD HUNTING",
+        "author": "Jack Devine with Vernon Loeb",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780374130329.jpeg",
+        "list": "Espionage"
+    },
+    {
+        "title": "FAIR GAME",
+        "author": "Valerie Plame Wilson",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781416537625.jpeg",
+        "list": "Espionage"
+    },
+    {
+        "title": "DEAR LEADER",
+        "author": "Jang Jin-sung",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781476766553.jpeg",
+        "list": "Espionage"
+    },
+    {
+        "title": "DEEP DOWN DARK",
+        "author": "Héctor Tobar",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780374709204.jpeg",
+        "list": "Expeditions, Disasters and Adventures"
+    },
+    {
+        "title": "DON'T GIVE UP, DON'T GIVE IN",
+        "author": "Louis Zamperini and David Rensin",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780062368331.jpeg",
+        "list": "Expeditions, Disasters and Adventures"
+    },
+    {
+        "title": "INTO THE WILD",
+        "author": "Jon Krakauer",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307476869.jpg",
+        "list": "Expeditions, Disasters and Adventures"
+    },
+    {
+        "title": "IN THE KINGDOM OF ICE",
+        "author": "Hampton Sides",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780385535380.jpeg",
+        "list": "Expeditions, Disasters and Adventures"
+    },
+    {
+        "title": "PILGRIM'S WILDERNESS",
+        "author": "Tom Kizzia",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307587848.jpg",
+        "list": "Expeditions, Disasters and Adventures"
+    },
+    {
+        "title": "WALKING HOME",
+        "author": "Sonia Choquette",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781401944513.jpeg",
+        "list": "Expeditions, Disasters and Adventures"
+    },
+    {
+        "title": "THE WILD TRUTH",
+        "author": "Carine McCandless",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780062325167.jpeg",
+        "list": "Expeditions, Disasters and Adventures"
+    },
+    {
+        "title": "CITY OF SCOUNDRELS",
+        "author": "Gary Krist",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307454294.jpg",
+        "list": "Expeditions, Disasters and Adventures"
+    },
+    {
+        "title": "THE RIVER OF DOUBT",
+        "author": "Candice Millard",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780767913737.jpeg",
+        "list": "Expeditions, Disasters and Adventures"
+    },
+    {
+        "title": "A HOUSE IN THE SKY",
+        "author": "Amanda Lindhout and Sara Corbett",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781451645613.jpg",
+        "list": "Expeditions, Disasters and Adventures"
+    },
+    {
+        "title": "UNRULY PLACES",
+        "author": "Alastair Bonnett",
+        "image": null,
+        "list": "Expeditions, Disasters and Adventures"
+    },
+    {
+        "title": "A HISTORY OF THE WORLD IN 12 MAPS",
+        "author": "Jerry Brotton",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780143126027.jpeg",
+        "list": "Expeditions, Disasters and Adventures"
+    },
+    {
+        "title": "THE ASTRONAUT WIVES CLUB",
+        "author": "Lily Koppel",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781455503254.jpg",
+        "list": "Expeditions, Disasters and Adventures"
+    },
+    {
+        "title": "ASTORIA",
+        "author": "Peter Stark",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780062218292.jpg",
+        "list": "Expeditions, Disasters and Adventures"
+    },
+    {
+        "title": "FROZEN IN TIME",
+        "author": "Mitchell Zuckoff",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780062133410.jpg",
+        "list": "Expeditions, Disasters and Adventures"
+    },
+    {
+        "title": "WHAT TO EXPECT WHEN YOU'RE EXPECTING",
+        "author": "Heidi Murkoff and Sharon Mazel",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780761148579.jpg",
+        "list": "Family"
+    },
+    {
+        "title": "CAN'T WE TALK ABOUT SOMETHING MORE PLEASANT?",
+        "author": "Roz Chast",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781608198061.jpg",
+        "list": "Family"
+    },
+    {
+        "title": "LEAVING BEFORE THE RAINS COME",
+        "author": "Alexandra Fuller",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780698145610.jpeg",
+        "list": "Family"
+    },
+    {
+        "title": "HOW TO TALK SO KIDS WILL LISTEN AND LISTEN SO KIDS WILL TALK",
+        "author": "Adele Faber and Elaine Mazlish",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781451663884.jpeg",
+        "list": "Family"
+    },
+    {
+        "title": "PARIS IN LOVE",
+        "author": "Eloisa James",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780679604440.jpg",
+        "list": "Family"
+    },
+    {
+        "title": "THE GLASS CASTLE",
+        "author": "Jeannette Walls",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780743247542.jpg",
+        "list": "Family"
+    },
+    {
+        "title": "THE WHOLE-BRAIN CHILD",
+        "author": "Daniel J Siegel and Tina Payne Bryson",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780553386691.jpeg",
+        "list": "Family"
+    },
+    {
+        "title": "THE FIVE LOVE LANGUAGES OF CHILDREN",
+        "author": "Gary D Chapman and Ross Campbell",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780802403476.jpeg",
+        "list": "Family"
+    },
+    {
+        "title": "GO THE F**K TO SLEEP",
+        "author": "Adam Mansbach",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781617750250.jpg",
+        "list": "Family"
+    },
+    {
+        "title": "THE TEENAGE BRAIN",
+        "author": "Frances E Jensen with Amy Ellis Nutt",
+        "image": null,
+        "list": "Family"
+    },
+    {
+        "title": "FALLING LEAVES",
+        "author": "Adeline Yen Mah",
+        "image": null,
+        "list": "Family"
+    },
+    {
+        "title": "THE DEATH OF SANTINI",
+        "author": "Pat Conroy",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780385530859.jpg",
+        "list": "Family"
+    },
+    {
+        "title": "THIS IS THE STORY OF A HAPPY MARRIAGE",
+        "author": "Ann Patchett",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780062236692.jpg",
+        "list": "Family"
+    },
+    {
+        "title": "ALL JOY AND NO FUN",
+        "author": "Jennifer Senior",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780062072221.jpeg",
+        "list": "Family"
+    },
+    {
+        "title": "I JUST WANT TO PEE ALONE",
+        "author": "Various bloggers;",
+        "image": null,
+        "list": "Family"
+    },
+    {
+        "title": "THE EVERYDAY SUPERMODEL",
+        "author": "Molly Sims",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780062274151.jpg",
+        "list": "Fashion, Manners and Customs"
+    },
+    {
+        "title": "HOW TO BE PARISIAN WHEREVER YOU ARE",
+        "author": "Anne Berest, Audrey Diwan, Caroline de Maigret and Sophie Mas",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780385538657.jpeg",
+        "list": "Fashion, Manners and Customs"
+    },
+    {
+        "title": "EMPIRE OF COTTON",
+        "author": "Sven Beckert",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780375414145.jpeg",
+        "list": "Fashion, Manners and Customs"
+    },
+    {
+        "title": "MAKE UP",
+        "author": "Michelle Phan",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780804137348.jpg",
+        "list": "Fashion, Manners and Customs"
+    },
+    {
+        "title": "HOW TO TIE A SCARF",
+        "author": "Potter Style",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780385344982.jpeg",
+        "list": "Fashion, Manners and Customs"
+    },
+    {
+        "title": "FRENCH WOMEN DON'T GET FACELIFTS",
+        "author": "Mireille Guiliano",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781455524112.jpeg",
+        "list": "Fashion, Manners and Customs"
+    },
+    {
+        "title": "WOMEN IN CLOTHES",
+        "author": "Sheila Heti, Heidi Julavits, Leanne Shapton & 639 Others",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780399166563.jpeg",
+        "list": "Fashion, Manners and Customs"
+    },
+    {
+        "title": "THE WOMAN I WANTED TO BE",
+        "author": "Diane Von Furstenberg",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781451651546.jpg",
+        "list": "Fashion, Manners and Customs"
+    },
+    {
+        "title": "BETTER THAN BEAUTY",
+        "author": "Helen Valentine and Alice Thompson",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781452103747.jpeg",
+        "list": "Fashion, Manners and Customs"
+    },
+    {
+        "title": "FLEA MARKET FABULOUS",
+        "author": "Lara Spencer",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781617690952.jpeg",
+        "list": "Fashion, Manners and Customs"
+    },
+    {
+        "title": "MADEMOISELLE",
+        "author": "Rhonda K Garelick",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781400069521.jpeg",
+        "list": "Fashion, Manners and Customs"
+    },
+    {
+        "title": "HEALTHY HAPPY SEXY",
+        "author": "Katie Silcox",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781582704739.jpeg",
+        "list": "Fashion, Manners and Customs"
+    },
+    {
+        "title": "ELEMENTS OF STYLE",
+        "author": "Erin Gates",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781476744872.jpg",
+        "list": "Fashion, Manners and Customs"
+    },
+    {
+        "title": "WORN STORIES",
+        "author": "Emily Spivack",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781616892760.jpeg",
+        "list": "Fashion, Manners and Customs"
+    },
+    {
+        "title": "ELSA SCHIAPARELLI",
+        "author": "Meryle Secrest",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307701596.jpeg",
+        "list": "Fashion, Manners and Customs"
+    },
+    {
+        "title": "THE 20/20 DIET",
+        "author": "Phil McGraw",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781939457318.jpg",
+        "list": "Food and Fitness"
+    },
+    {
+        "title": "ZERO BELLY DIET",
+        "author": "David Zinczenko",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780345547958.jpeg",
+        "list": "Food and Fitness"
+    },
+    {
+        "title": "10-DAY GREEN SMOOTHIE CLEANSE",
+        "author": "J J Smith",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780982301821.jpg",
+        "list": "Food and Fitness"
+    },
+    {
+        "title": "MAKE IT AHEAD!",
+        "author": "Ina Garten",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307464880.jpeg",
+        "list": "Food and Fitness"
+    },
+    {
+        "title": "THUG KITCHEN",
+        "author": "Thug Kitchen",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781623363581.jpeg",
+        "list": "Food and Fitness"
+    },
+    {
+        "title": "IT WAS ME ALL ALONG",
+        "author": "Andie Mitchell",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780770433260.jpeg",
+        "list": "Food and Fitness"
+    },
+    {
+        "title": "IT STARTS WITH FOOD",
+        "author": "Dallas Hartwig and Melissa Hartwig",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781936608898.jpg",
+        "list": "Food and Fitness"
+    },
+    {
+        "title": "THE SKINNYTASTE COOKBOOK",
+        "author": "Gina Homolka with Heather K Jones",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780385345620.jpeg",
+        "list": "Food and Fitness"
+    },
+    {
+        "title": "GRAIN BRAIN",
+        "author": "David Perlmutter with Kristin Loberg",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316234801.jpg",
+        "list": "Food and Fitness"
+    },
+    {
+        "title": "THE DASH DIET YOUNGER YOU",
+        "author": "Marla Heller",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781455554546.jpeg",
+        "list": "Food and Fitness"
+    },
+    {
+        "title": "CLEAN SLATE",
+        "author": "Editors of Martha Stewart Living",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307954596.jpg",
+        "list": "Food and Fitness"
+    },
+    {
+        "title": "THE DASH DIET WEIGHT LOSS SOLUTION",
+        "author": "Marla Heller",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781455512799.jpg",
+        "list": "Food and Fitness"
+    },
+    {
+        "title": "THE 100",
+        "author": "Jorge Cruise",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780062227072.jpg",
+        "list": "Food and Fitness"
+    },
+    {
+        "title": "THE FAST METABOLISM DIET",
+        "author": "Haylie Pomroy with Eve Adamson",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307986276.jpg",
+        "list": "Food and Fitness"
+    },
+    {
+        "title": "PLENTY MORE",
+        "author": "Yotam Ottolenghi",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781607746218.jpeg",
+        "list": "Food and Fitness"
+    },
+    {
+        "title": "EAT TO LIVE",
+        "author": "Joel Fuhrman",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316206648.jpg",
+        "list": "Food and Fitness"
+    },
+    {
+        "title": "PRACTICAL PALEO",
+        "author": "Diane Sanfilippo",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781936608751.jpg",
+        "list": "Food and Fitness"
+    },
+    {
+        "title": "THE NEW HEALTH RULES",
+        "author": "Frank Lipman and Danielle Claro",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781579655730.jpeg",
+        "list": "Food and Fitness"
+    },
+    {
+        "title": "THE ADRENAL RESET DIET",
+        "author": "Alan Christianson",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780804140539.jpeg",
+        "list": "Food and Fitness"
+    },
+    {
+        "title": "WHEAT BELLY",
+        "author": "William Davis",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781609614799.jpg",
+        "list": "Food and Fitness"
+    },
+    {
+        "title": "MINECRAFT CONSTRUCTION HANDBOOK",
+        "author": "Matthew Needler and Phil Southam",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780545685177.jpeg",
+        "list": "Games and Activities"
+    },
+    {
+        "title": "MINECRAFT COMBAT HANDBOOK",
+        "author": "Stephanie Milton with Paul Soares, Jr",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780545685160.jpeg",
+        "list": "Games and Activities"
+    },
+    {
+        "title": "PLAYER'S HANDBOOK",
+        "author": "Wizards RPG Team",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780786965601.jpeg",
+        "list": "Games and Activities"
+    },
+    {
+        "title": "MINECRAFT: REDSTONE HANDBOOK",
+        "author": "Nick Farwell",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780545685153.jpeg",
+        "list": "Games and Activities"
+    },
+    {
+        "title": "MONSTER MANUAL",
+        "author": "Wizards RPG Team",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780786965618.jpeg",
+        "list": "Games and Activities"
+    },
+    {
+        "title": "MINECRAFT ESSENTIAL HANDBOOK",
+        "author": "Stephanie Milton with Paul Soares, Jr and Jordan Maron",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780545669931.jpeg",
+        "list": "Games and Activities"
+    },
+    {
+        "title": "POKEMON: ESSENTIAL HANDBOOK",
+        "author": "Cris Silvestri and the staff of Scholastic",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780545427715.jpeg",
+        "list": "Games and Activities"
+    },
+    {
+        "title": "THE LEGO IDEAS BOOK",
+        "author": "Daniel Lipkowitz",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780756686062.jpg",
+        "list": "Games and Activities"
+    },
+    {
+        "title": "HACKS FOR MINECRAFTERS",
+        "author": "Megan Miller",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781632204400.jpeg",
+        "list": "Games and Activities"
+    },
+    {
+        "title": "GUINNESS WORLD RECORDS 2015 GAMER'S EDITION",
+        "author": "the Guinness World Records editors",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781908843661.jpeg",
+        "list": "Games and Activities"
+    },
+    {
+        "title": "WRECK THIS JOURNAL EVERYWHERE",
+        "author": "Keri Smith",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780399171918.jpeg",
+        "list": "Games and Activities"
+    },
+    {
+        "title": "THE ULTIMATE MINECRAFT CREATOR",
+        "author": "Triumph Books",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781629370422.jpeg",
+        "list": "Games and Activities"
+    },
+    {
+        "title": "101 TWO-LETTER WORDS",
+        "author": "Stephin Merritt;",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780393240191.jpg",
+        "list": "Games and Activities"
+    },
+    {
+        "title": "1000 DOT-TO-DOT: CITIES",
+        "author": "Thomas Pavitte",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781626860667.jpeg",
+        "list": "Games and Activities"
+    },
+    {
+        "title": "MINECRAFTER 2. 0 ADVANCED",
+        "author": "Triumph Books",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781600789984.jpeg",
+        "list": "Games and Activities"
+    },
+    {
+        "title": "A MUSE AND A MAZE",
+        "author": "Peter Turchi",
+        "image": null,
+        "list": "Games and Activities"
+    },
+    {
+        "title": "THE POINTLESS BOOK",
+        "author": "Alfie Deyes",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780762457519.jpg",
+        "list": "Games and Activities"
+    },
+    {
+        "title": "CHIMA CHARACTER ENCYCLOPEDIA",
+        "author": "DK",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781465416667.jpeg",
+        "list": "Games and Activities"
+    },
+    {
+        "title": "MINECRAFTER",
+        "author": "Trevor Talley and Barry MacDonald, et al",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781600789328.jpeg",
+        "list": "Games and Activities"
+    },
+    {
+        "title": "THE LEGO MOVIE: THE ESSENTIAL GUIDE",
+        "author": "Hannah Dolan",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781465417008.jpeg",
+        "list": "Games and Activities"
+    },
+    {
+        "title": "LEAN IN",
+        "author": "Sheryl Sandberg with Nell Scovell",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780385349956.jpg",
+        "list": "Hardcover Business Books"
+    },
+    {
+        "title": "DUCK COMMANDERS",
+        "author": "Willie and Korie Robertson with Mark Schlabach",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781476703541.jpg",
+        "list": "Hardcover Business Books"
+    },
+    {
+        "title": "BEFORE HAPPINESS",
+        "author": "Shawn Achor",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780770436735.jpg",
+        "list": "Hardcover Business Books"
+    },
+    {
+        "title": "LOOPTAIL",
+        "author": "Bruce Poon Tip",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781455574094.jpg",
+        "list": "Hardcover Business Books"
+    },
+    {
+        "title": "GREAT WORK",
+        "author": "David Sturt",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780071818353.jpg",
+        "list": "Hardcover Business Books"
+    },
+    {
+        "title": "MISSION IN A BOTTLE",
+        "author": "Seth Goldman and Barry Nalebuff",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780770437497.jpg",
+        "list": "Hardcover Business Books"
+    },
+    {
+        "title": "SYSTEM",
+        "author": "Jeff Benedict and Armen Keteyian",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780385536622.jpg",
+        "list": "Hardcover Business Books"
+    },
+    {
+        "title": "YOU FIRST",
+        "author": "Liane Davey",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781118636701.jpg",
+        "list": "Hardcover Business Books"
+    },
+    {
+        "title": "VALUE OF DEBT",
+        "author": "Thomas J Anderson",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781118758618.jpg",
+        "list": "Hardcover Business Books"
+    },
+    {
+        "title": "THE POWER OF HABIT",
+        "author": "Charles Duhigg",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780812981605.jpg",
+        "list": "Hardcover Business Books"
+    },
+    {
+        "title": "STRENGTHS-BASED LEADERSHIP",
+        "author": "Tom Rath and Barry Conchie",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781595620255.jpg",
+        "list": "Hardcover Business Books"
+    },
+    {
+        "title": "TOTAL MONEY MAKEOVER",
+        "author": "Dave Ramsey",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781595550781.jpg",
+        "list": "Hardcover Business Books"
+    },
+    {
+        "title": "WINNING FROM WITHIN",
+        "author": "Erica Ariel Fox",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780062213020.jpg",
+        "list": "Hardcover Business Books"
+    },
+    {
+        "title": "LEAN STARTUP",
+        "author": "Eric Ries",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307887894.jpg",
+        "list": "Hardcover Business Books"
+    },
+    {
+        "title": "4-HOUR WORKWEEK",
+        "author": "Timothy Ferriss",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307465351.jpg",
+        "list": "Hardcover Business Books"
+    },
+    {
+        "title": "10-DAY GREEN SMOOTHIE CLEANSE",
+        "author": "J J Smith",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780982301821.jpg",
+        "list": "Health"
+    },
+    {
+        "title": "GHOST BOY",
+        "author": "Martin Pistorius with Megan Lloyd Davies",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781400205844.jpeg",
+        "list": "Health"
+    },
+    {
+        "title": "IT WAS ME ALL ALONG",
+        "author": "Andie Mitchell",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780770433260.jpeg",
+        "list": "Health"
+    },
+    {
+        "title": "AMERICA'S BITTER PILL",
+        "author": "Steven Brill",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780812996968.jpeg",
+        "list": "Health"
+    },
+    {
+        "title": "THE NEW HEALTH RULES",
+        "author": "Frank Lipman and Danielle Claro",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781579655730.jpeg",
+        "list": "Health"
+    },
+    {
+        "title": "THE ADRENAL RESET DIET",
+        "author": "Alan Christianson",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780804140539.jpeg",
+        "list": "Health"
+    },
+    {
+        "title": "GENTLE BABIES",
+        "author": "Debra Raybern",
+        "image": null,
+        "list": "Health"
+    },
+    {
+        "title": "SOUL MIND BODY SCIENCE SYSTEM",
+        "author": "Zhi Gang Sha and Rulin Xiu",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781940363998.jpeg",
+        "list": "Health"
+    },
+    {
+        "title": "THE MAN WHO COULDN'T STOP",
+        "author": "David Adam",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780374223953.jpg",
+        "list": "Health"
+    },
+    {
+        "title": "HASHIMOTO'S THYROIDITIS",
+        "author": "Izabella Wentz with Marta Nowosadzka",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780615825793.jpeg",
+        "list": "Health"
+    },
+    {
+        "title": "YES PLEASE",
+        "author": "Amy Poehler",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780062268341.jpeg",
+        "list": "Humor"
+    },
+    {
+        "title": "NOT THAT KIND OF GIRL",
+        "author": "Lena Dunham",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780812995008.jpeg",
+        "list": "Humor"
+    },
+    {
+        "title": "CAN'T WE TALK ABOUT SOMETHING MORE PLEASANT?",
+        "author": "Roz Chast",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781608198061.jpg",
+        "list": "Humor"
+    },
+    {
+        "title": "IS EVERYONE HANGING OUT WITHOUT ME?",
+        "author": "Mindy Kaling",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307886286.jpg",
+        "list": "Humor"
+    },
+    {
+        "title": "BOSSYPANTS",
+        "author": "Tina Fey",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316056892.jpg",
+        "list": "Humor"
+    },
+    {
+        "title": "THE ANDY COHEN DIARIES",
+        "author": "Andy Cohen",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781627792295.jpeg",
+        "list": "Humor"
+    },
+    {
+        "title": "AS YOU WISH",
+        "author": "Cary Elwes with Joe Layden",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781476764030.jpeg",
+        "list": "Humor"
+    },
+    {
+        "title": "GO THE F**K TO SLEEP",
+        "author": "Adam Mansbach",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781617750250.jpg",
+        "list": "Humor"
+    },
+    {
+        "title": "SILVER SCREEN FIEND",
+        "author": "Patton Oswalt",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781451673210.jpeg",
+        "list": "Humor"
+    },
+    {
+        "title": "LET'S EXPLORE DIABETES WITH OWLS",
+        "author": "David Sedaris",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316125680.jpg",
+        "list": "Humor"
+    },
+    {
+        "title": "SO, ANYWAY...,",
+        "author": "John Cleese",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780385348256.jpeg",
+        "list": "Humor"
+    },
+    {
+        "title": "HYPERBOLE AND A HALF",
+        "author": "Allie Brosh",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781451666175.jpg",
+        "list": "Humor"
+    },
+    {
+        "title": "SERIOUSLY... I'M KIDDING",
+        "author": "Ellen DeGeneres",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780446585033.jpg",
+        "list": "Humor"
+    },
+    {
+        "title": "I MUST SAY",
+        "author": "Martin Short with David Kamp",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780062309532.jpeg",
+        "list": "Humor"
+    },
+    {
+        "title": "FOOD",
+        "author": "Jim Gaffigan",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780804140423.jpeg",
+        "list": "Humor"
+    },
+    {
+        "title": "THE HEART OF EVERYTHING THAT IS",
+        "author": "Bob Drury and Tom Clavin",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781451654660.jpeg",
+        "list": "Indigenous Americans"
+    },
+    {
+        "title": "EMPIRE OF THE SUMMER MOON",
+        "author": "S C Gwynne",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781416591061.jpg",
+        "list": "Indigenous Americans"
+    },
+    {
+        "title": "SHORT NIGHTS OF THE SHADOW CATCHER",
+        "author": "Timothy Egan",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780544102767.jpg",
+        "list": "Indigenous Americans"
+    },
+    {
+        "title": "BURY MY HEART AT WOUNDED KNEE",
+        "author": "Dee Brown",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780805086843.jpeg",
+        "list": "Indigenous Americans"
+    },
+    {
+        "title": "SEVENTH GENERATION EARTH ETHICS",
+        "author": "Patty Loew",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780870206740.jpg",
+        "list": "Indigenous Americans"
+    },
+    {
+        "title": "CODE TALKER",
+        "author": "Chester Nez with Judith Schiess Avila",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780425247853.jpeg",
+        "list": "Indigenous Americans"
+    },
+    {
+        "title": "NATION TO NATION",
+        "author": "edited  Suzan Shown Harjo",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781588344786.jpeg",
+        "list": "Indigenous Americans"
+    },
+    {
+        "title": "IN GERONIMO'S FOOTSTEPS",
+        "author": "Corine Sombrun and Harlyn Geronimo",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781611458961.jpeg",
+        "list": "Indigenous Americans"
+    },
+    {
+        "title": "THE SWORDFISH HUNTERS",
+        "author": "Bruce Bourque",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781593730383.jpeg",
+        "list": "Indigenous Americans"
+    },
+    {
+        "title": "IF YOU POISON US",
+        "author": "Peter H Eichstaedt with photos  Murrae Haynes",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781878610409.jpeg",
+        "list": "Indigenous Americans"
+    },
+    {
+        "title": "OUTLIERS",
+        "author": "Malcolm Gladwell",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316017930.jpg",
+        "list": "Paperback Business Books"
+    },
+    {
+        "title": "THINKING, FAST AND SLOW",
+        "author": "Daniel Kahneman",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781429969352.jpg",
+        "list": "Paperback Business Books"
+    },
+    {
+        "title": "STEVE JOBS",
+        "author": "Walter Isaacson",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781451648553.jpg",
+        "list": "Paperback Business Books"
+    },
+    {
+        "title": "CONVERT EVERY CLICK",
+        "author": "Benji Rabhan",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781118759677.jpg",
+        "list": "Paperback Business Books"
+    },
+    {
+        "title": "THE TIPPING POINT",
+        "author": "Malcolm Gladwell",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780759574731.jpg",
+        "list": "Paperback Business Books"
+    },
+    {
+        "title": "HEADS IN BEDS",
+        "author": "Jacob Tomsky",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780385535649.jpg",
+        "list": "Paperback Business Books"
+    },
+    {
+        "title": "DRIVE",
+        "author": "Daniel H Pink",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781594484803.jpg",
+        "list": "Paperback Business Books"
+    },
+    {
+        "title": "FREAKONOMICS",
+        "author": "Steven D Levitt and Stephen J Dubner",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780060731335.jpg",
+        "list": "Paperback Business Books"
+    },
+    {
+        "title": "THE CHECKLIST MANIFESTO",
+        "author": "Atul Gawande",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780805091748.jpg",
+        "list": "Paperback Business Books"
+    },
+    {
+        "title": "WHY NATIONS FAIL",
+        "author": "Daron Acemoglu and James A Robinson",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307719232.jpg",
+        "list": "Paperback Business Books"
+    },
+    {
+        "title": "UNBROKEN",
+        "author": "Laura Hillenbrand",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781400064168.jpg",
+        "list": "Politics"
+    },
+    {
+        "title": "KILLING PATTON",
+        "author": "Bill O'Reilly and Martin Dugard",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780805096699.jpg",
+        "list": "Politics"
+    },
+    {
+        "title": "41",
+        "author": "George W Bush",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780553447798.jpg",
+        "list": "Politics"
+    },
+    {
+        "title": "AMERICAN SNIPER",
+        "author": "Chris Kyle with Scott McEwen and Jim DeFelice",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780062082374.jpg",
+        "list": "Politics"
+    },
+    {
+        "title": "DREAMERS AND DECEIVERS",
+        "author": "Glenn Beck with Kevin Balfe",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781476783895.jpeg",
+        "list": "Politics"
+    },
+    {
+        "title": "THINGS THAT MATTER",
+        "author": "Charles Krauthammer",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780385349178.jpg",
+        "list": "Politics"
+    },
+    {
+        "title": "I AM MALALA",
+        "author": "Malala Yousafzai with Christina Lamb",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316322409.jpg",
+        "list": "Politics"
+    },
+    {
+        "title": "NO HERO",
+        "author": "Mark Owen with Kevin Maurer",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780698164444.jpeg",
+        "list": "Politics"
+    },
+    {
+        "title": "KILLING KENNEDY",
+        "author": "Bill O'Reilly and Martin Dugard",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780805096668.jpg",
+        "list": "Politics"
+    },
+    {
+        "title": "KILLING LINCOLN",
+        "author": "Bill O'Reilly and Martin Dugard",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780805093070.jpg",
+        "list": "Politics"
+    },
+    {
+        "title": "THE NEW JIM CROW",
+        "author": "Michelle Alexander",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781595586438.jpg",
+        "list": "Race and Civil Rights"
+    },
+    {
+        "title": "THE SHORT AND TRAGIC LIFE OF ROBERT PEACE",
+        "author": "Jeff Hobbs",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781476731926.jpeg",
+        "list": "Race and Civil Rights"
+    },
+    {
+        "title": "GHETTOSIDE",
+        "author": "Jill Leovy",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780385530002.jpeg",
+        "list": "Race and Civil Rights"
+    },
+    {
+        "title": "CITIZEN",
+        "author": "Claudia Rankine",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781555976903.jpeg",
+        "list": "Race and Civil Rights"
+    },
+    {
+        "title": "GATEWAY TO FREEDOM",
+        "author": "Eric Foner",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780393244076.jpeg",
+        "list": "Race and Civil Rights"
+    },
+    {
+        "title": "JUST MERCY",
+        "author": "Bryan Stevenson",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780812994520.jpeg",
+        "list": "Race and Civil Rights"
+    },
+    {
+        "title": "THE WORK",
+        "author": "Wes Moore",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780812993578.jpeg",
+        "list": "Race and Civil Rights"
+    },
+    {
+        "title": "THE OTHER WES MOORE",
+        "author": "Wes Moore",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780385528207.jpg",
+        "list": "Race and Civil Rights"
+    },
+    {
+        "title": "SPARE PARTS",
+        "author": "Joshua Davis",
+        "image": null,
+        "list": "Race and Civil Rights"
+    },
+    {
+        "title": "EMPIRE OF COTTON",
+        "author": "Sven Beckert",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780375414145.jpeg",
+        "list": "Race and Civil Rights"
+    },
+    {
+        "title": "TWELVE YEARS A SLAVE",
+        "author": "Solomon Northup",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781443433099.jpg",
+        "list": "Race and Civil Rights"
+    },
+    {
+        "title": "THE RADICAL KING",
+        "author": "Martin Luther King, Jrand",
+        "image": null,
+        "list": "Race and Civil Rights"
+    },
+    {
+        "title": "STRONG INSIDE",
+        "author": "Andrew Maraniss",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780826520234.jpeg",
+        "list": "Race and Civil Rights"
+    },
+    {
+        "title": "DEATH OF A KING",
+        "author": "Tavis Smiley with David Ritz",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316332767.jpeg",
+        "list": "Race and Civil Rights"
+    },
+    {
+        "title": "THE HALF HAS NEVER BEEN TOLD",
+        "author": "Edward E Baptist",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780465002962.jpeg",
+        "list": "Race and Civil Rights"
+    },
+    {
+        "title": "THE FIVE LOVE LANGUAGES",
+        "author": "Gary Chapman",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780802473158.jpg",
+        "list": "Relationships"
+    },
+    {
+        "title": "THE ANDY COHEN DIARIES",
+        "author": "Andy Cohen",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781627792295.jpeg",
+        "list": "Relationships"
+    },
+    {
+        "title": "LEAVING BEFORE THE RAINS COME",
+        "author": "Alexandra Fuller",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780698145610.jpeg",
+        "list": "Relationships"
+    },
+    {
+        "title": "DARING GREATLY",
+        "author": "Brene Brown",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781592407330.jpg",
+        "list": "Relationships"
+    },
+    {
+        "title": "CITIZEN",
+        "author": "Claudia Rankine",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781555976903.jpeg",
+        "list": "Relationships"
+    },
+    {
+        "title": "ALTITUDE ADJUSTMENT",
+        "author": "Mary Beth Baptiste",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781493009220.jpeg",
+        "list": "Relationships"
+    },
+    {
+        "title": "KEEP IT SHUT",
+        "author": "Karen Ehman",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780310339649.jpg",
+        "list": "Relationships"
+    },
+    {
+        "title": "YOU AND ME FOREVER",
+        "author": "Francis Chan and Lisa Chan",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780990351405.jpeg",
+        "list": "Relationships"
+    },
+    {
+        "title": "TINY BEAUTIFUL THINGS",
+        "author": "Cheryl Strayed",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307949332.jpg",
+        "list": "Relationships"
+    },
+    {
+        "title": "PARIS IN LOVE",
+        "author": "Eloisa James",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780679604440.jpg",
+        "list": "Relationships"
+    },
+    {
+        "title": "LOVE DOES",
+        "author": "Bob Goff",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781400203758.jpg",
+        "list": "Relationships"
+    },
+    {
+        "title": "THE LOVE DARE",
+        "author": "Stephen Kendrick and Alex Kendrick with Lawrence Kimbrough",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780805448856.jpg",
+        "list": "Relationships"
+    },
+    {
+        "title": "BAD FEMINIST",
+        "author": "Roxane Gay",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780062282712.jpeg",
+        "list": "Relationships"
+    },
+    {
+        "title": "FOR THE RIGHT REASONS",
+        "author": "Sean Lowe with Nancy French",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780718018801.jpeg",
+        "list": "Relationships"
+    },
+    {
+        "title": "HOW TO LOVE",
+        "author": "Thich Nhat Hanh",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781937006884.jpeg",
+        "list": "Relationships"
+    },
+    {
+        "title": "JESUS CALLING",
+        "author": "Sarah Young",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781591451884.jpeg",
+        "list": "Religion, Spirituality and Faith"
+    },
+    {
+        "title": "WHAT I KNOW FOR SURE",
+        "author": "Oprah Winfrey",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781250054050.jpeg",
+        "list": "Religion, Spirituality and Faith"
+    },
+    {
+        "title": "SMALL VICTORIES",
+        "author": "Anne Lamott",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780698189744.jpeg",
+        "list": "Religion, Spirituality and Faith"
+    },
+    {
+        "title": "THE POWER OF NOW",
+        "author": "Eckhart Tolle",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781577314806.jpg",
+        "list": "Religion, Spirituality and Faith"
+    },
+    {
+        "title": "THE BEST YES",
+        "author": "Lysa TerKeurst",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781400205851.jpeg",
+        "list": "Religion, Spirituality and Faith"
+    },
+    {
+        "title": "DON'T GIVE UP, DON'T GIVE IN",
+        "author": "Louis Zamperini and David Rensin",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780062368331.jpeg",
+        "list": "Religion, Spirituality and Faith"
+    },
+    {
+        "title": "KILLING JESUS",
+        "author": "Bill O'Reilly and Martin Dugard",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780805098549.jpg",
+        "list": "Religion, Spirituality and Faith"
+    },
+    {
+        "title": "THE MYSTERY OF THE SHEMITAH",
+        "author": "Jonathan Cahn",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781629981932.jpg",
+        "list": "Religion, Spirituality and Faith"
+    },
+    {
+        "title": "PRAYER",
+        "author": "Timothy Keller",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780525954149.jpeg",
+        "list": "Religion, Spirituality and Faith"
+    },
+    {
+        "title": "THE UNTETHERED SOUL",
+        "author": "Michael A Singer",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781572245372.jpg",
+        "list": "Religion, Spirituality and Faith"
+    },
+    {
+        "title": "BOUNDARIES",
+        "author": "Henry Cloud and John Townsend",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780310247456.jpeg",
+        "list": "Religion, Spirituality and Faith"
+    },
+    {
+        "title": "THE CRUSADES",
+        "author": "Thomas Asbridge",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780061981364.jpeg",
+        "list": "Religion, Spirituality and Faith"
+    },
+    {
+        "title": "BEFORE AMEN",
+        "author": "Max Lucado",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780849948480.jpeg",
+        "list": "Religion, Spirituality and Faith"
+    },
+    {
+        "title": "THE MEANING OF HUMAN EXISTENCE",
+        "author": "Edward O Wilson",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780871401007.jpg",
+        "list": "Religion, Spirituality and Faith"
+    },
+    {
+        "title": "GOING CLEAR",
+        "author": "Lawrence Wright",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307700667.jpg",
+        "list": "Religion, Spirituality and Faith"
+    },
+    {
+        "title": "BEING MORTAL",
+        "author": "Atul Gawande",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781627790550.jpg",
+        "list": "Science"
+    },
+    {
+        "title": "THE IMMORTAL LIFE OF HENRIETTA LACKS",
+        "author": "Rebecca Skloot",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781400052189.jpg",
+        "list": "Science"
+    },
+    {
+        "title": "WHAT IF?",
+        "author": "Randall Munroe",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780544272644.jpeg",
+        "list": "Science"
+    },
+    {
+        "title": "ALAN TURING: THE ENIGMA",
+        "author": "Andrew Hodges",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781400865123.jpeg",
+        "list": "Science"
+    },
+    {
+        "title": "THE POWER OF HABIT",
+        "author": "Charles Duhigg",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780812981605.jpg",
+        "list": "Science"
+    },
+    {
+        "title": "QUIET",
+        "author": "Susan Cain",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307452207.jpg",
+        "list": "Science"
+    },
+    {
+        "title": "A BRIEF HISTORY OF TIME",
+        "author": "Stephen W Hawking",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780553380163.jpeg",
+        "list": "Science"
+    },
+    {
+        "title": "THINKING, FAST AND SLOW",
+        "author": "Daniel Kahneman",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781429969352.jpg",
+        "list": "Science"
+    },
+    {
+        "title": "THE SIXTH EXTINCTION",
+        "author": "Elizabeth Kolbert",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780805099799.jpeg",
+        "list": "Science"
+    },
+    {
+        "title": "THE INNOVATORS",
+        "author": "Walter Isaacson",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781476708713.jpeg",
+        "list": "Science"
+    },
+    {
+        "title": "THIS CHANGES EVERYTHING",
+        "author": "Naomi Klein",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781451697407.png",
+        "list": "Science"
+    },
+    {
+        "title": "IN THE KINGDOM OF ICE",
+        "author": "Hampton Sides",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780385535380.jpeg",
+        "list": "Science"
+    },
+    {
+        "title": "THE BEST AMERICAN SCIENCE AND NATURE WRITING 2014",
+        "author": "edited  Deborah Blum and Tim Folger",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780544003392.jpeg",
+        "list": "Science"
+    },
+    {
+        "title": "THE MARSHMALLOW TEST",
+        "author": "Walter Mischel",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316230872.jpeg",
+        "list": "Science"
+    },
+    {
+        "title": "UNDENIABLE",
+        "author": "Bill Nye",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781250007131.jpeg",
+        "list": "Science"
+    },
+    {
+        "title": "THE MEANING OF HUMAN EXISTENCE",
+        "author": "Edward O Wilson",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780871401007.jpg",
+        "list": "Science"
+    },
+    {
+        "title": "WHAT SHOULD WE BE WORRIED ABOUT?",
+        "author": "edited  John Brockman",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780062296245.jpeg",
+        "list": "Science"
+    },
+    {
+        "title": "THE MAN WHO COULDN'T STOP",
+        "author": "David Adam",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780374223953.jpg",
+        "list": "Science"
+    },
+    {
+        "title": "HOW WE GOT TO NOW",
+        "author": "Steven Johnson",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780698154506.jpeg",
+        "list": "Science"
+    },
+    {
+        "title": "A GARDEN OF MARVELS",
+        "author": "Ruth Kassinger",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780062049032.jpeg",
+        "list": "Science"
+    },
+    {
+        "title": "UNBROKEN",
+        "author": "Laura Hillenbrand",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781400064168.jpg",
+        "list": "Sports"
+    },
+    {
+        "title": "THE BOYS IN THE BOAT",
+        "author": "Daniel James Brown",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781101622742.jpg",
+        "list": "Sports"
+    },
+    {
+        "title": "YOU CAN'T MAKE THIS UP",
+        "author": "Al Michaels with L Jon Wertheim",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780062314987.jpg",
+        "list": "Sports"
+    },
+    {
+        "title": "FOXCATCHER",
+        "author": "Mark Schultz with David Thomas",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780698188709.jpeg",
+        "list": "Sports"
+    },
+    {
+        "title": "ON MY OWN TWO FEET",
+        "author": "Amy Purdy with Michelle Burford",
+        "image": null,
+        "list": "Sports"
+    },
+    {
+        "title": "THE TERRIBLE AND WONDERFUL REASONS WHY I RUN LONG DISTANCES",
+        "author": "The Oatmeal",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781449459956.jpeg",
+        "list": "Sports"
+    },
+    {
+        "title": "THE KEEPER",
+        "author": "Tim Howard with Ali Benjamin",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780062387394.jpeg",
+        "list": "Sports"
+    },
+    {
+        "title": "JETER UNFILTERED",
+        "author": "Derek Jeter with Anthony Bozza",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781476783666.jpeg",
+        "list": "Sports"
+    },
+    {
+        "title": "THE GOLF BOOK",
+        "author": "Chris Millard",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780062364562.jpeg",
+        "list": "Sports"
+    },
+    {
+        "title": "BLEEDING ORANGE",
+        "author": "Jim Boeheim with Jack McCallum",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780062316646.jpg",
+        "list": "Sports"
+    },
+    {
+        "title": "WHEN THE GAME WAS OURS",
+        "author": "Larry Bird, Earvin \"Magic\" Johnson and Jackie MacMullan",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780547416816.jpg",
+        "list": "Sports"
+    },
+    {
+        "title": "STRONG INSIDE",
+        "author": "Andrew Maraniss",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780826520234.jpeg",
+        "list": "Sports"
+    },
+    {
+        "title": "GLORY DAYS IN TRIBE TOWN",
+        "author": "Terry Pluto and Tom Hamilton",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781938441356.jpeg",
+        "list": "Sports"
+    },
+    {
+        "title": "THE SPORTS GENE",
+        "author": "David Epstein",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781591845119.jpg",
+        "list": "Sports"
+    },
+    {
+        "title": "THE EMERALD MILE",
+        "author": "Kevin Fedarko",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781439159859.jpeg",
+        "list": "Sports"
+    },
+    {
+        "title": "ORR",
+        "author": "Bob Orr",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780399161759.jpg",
+        "list": "Sports"
+    },
+    {
+        "title": "WHAT I TALK ABOUT WHEN I TALK ABOUT RUNNING",
+        "author": "Haruki Murakami",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307389831.jpg",
+        "list": "Sports"
+    },
+    {
+        "title": "PARCELLS",
+        "author": "Bill Parcells and Nunyo Demasio",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780385346351.jpeg",
+        "list": "Sports"
+    },
+    {
+        "title": "BORN TO RUN",
+        "author": "Christopher McDougall",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307271914.jpg",
+        "list": "Sports"
+    },
+    {
+        "title": "CRIMSON HEART",
+        "author": "Mal Moore with Steve Townsend",
+        "image": null,
+        "list": "Sports"
+    },
+    {
+        "title": "WILD",
+        "author": "Cheryl Strayed",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307957658.jpg",
+        "list": "Travel"
+    },
+    {
+        "title": "HUMANS OF NEW YORK",
+        "author": "Brandon Stanton",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781250038821.jpg",
+        "list": "Travel"
+    },
+    {
+        "title": "ALTITUDE ADJUSTMENT",
+        "author": "Mary Beth Baptiste",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781493009220.jpeg",
+        "list": "Travel"
+    },
+    {
+        "title": "TWO OLD FOOLS ON A CAMEL",
+        "author": "Victoria Twead",
+        "image": null,
+        "list": "Travel"
+    },
+    {
+        "title": "WALKING HOME",
+        "author": "Sonia Choquette",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781401944513.jpeg",
+        "list": "Travel"
+    },
+    {
+        "title": "HOW PARIS BECAME PARIS",
+        "author": "Joan DeJean",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781620401132.jpeg",
+        "list": "Travel"
+    },
+    {
+        "title": "PARIS LETTERS",
+        "author": "Janice MacLeod",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781402288807.jpeg",
+        "list": "Travel"
+    },
+    {
+        "title": "LOST IN TRANSLATION",
+        "author": "Ella Frances Sanders",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781607747109.jpeg",
+        "list": "Travel"
+    },
+    {
+        "title": "A WALK IN THE WOODS",
+        "author": "Bill Bryson",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780767902526.jpeg",
+        "list": "Travel"
+    },
+    {
+        "title": "TURN RIGHT AT MACHU PICCHU",
+        "author": "Mark Adams",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780525952244.jpg",
+        "list": "Travel"
+    },
+    {
+        "title": "THE KINDNESS OF STRANGERS",
+        "author": "Mike McIntyre",
+        "image": null,
+        "list": "Travel"
+    },
+    {
+        "title": "COCKPIT CONFIDENTIAL",
+        "author": "Patrick Smith",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781402280917.jpeg",
+        "list": "Travel"
+    },
+    {
+        "title": "THE ART OF STILLNESS",
+        "author": "Pico Iyer",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781476784724.jpeg",
+        "list": "Travel"
+    },
+    {
+        "title": "HOW TO TRAVEL THE WORLD ON $50 A DAY",
+        "author": "Matt Kepnes",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780399173288.jpeg",
+        "list": "Travel"
+    },
+    {
+        "title": "WALKING THE BIBLE",
+        "author": "Bruce Feiler",
+        "image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780062336507.jpg",
+        "list": "Travel"
+    }
+]

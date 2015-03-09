@@ -1,0 +1,92 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  background-color: #000000;
+
+  font-family: Helvetica, sans-serif;;
+  overflow: hidden;
+
+  margin: 0;
+}
+
+circle {
+  stroke:black;
+  stroke-width:0.5;
+}
+
+
+.axis path {
+  fill: none;
+  stroke: #fff;
+  stroke-width: 1px;
+  shape-rendering: crispEdges;
+}
+
+.axis line {
+  fill: none;
+  stroke: #fff;
+  stroke-width: 1px;
+  shape-rendering: crispEdges;
+}
+
+.axis text {
+  font-size: 8px;
+  fill: #eee;
+
+}
+
+.chartbody {
+  width: 230px;
+  height: 160px;
+  font-weight: bold;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: rgba(72,72,72,.75);
+  border: 2px solid rgba(127,255,255,0.25);
+  border-radius: 8px;
+  text-align: center;
+  cursor: default;
+}
+
+.chartbody:hover {
+  box-shadow: 0px 0px 12px rgba(0,255,255,0.75);
+  border: 1px solid rgba(127,255,255,0.75);
+}
+
+.chartbody svg {
+  position: absolute;
+  top: 20px;
+  left: 2px;
+  right: 0px;
+}
+
+.chartbody .snowfall{
+  position: absolute;
+  top: 50px;
+  /*top:20px;*/
+  left: 15px;
+  right: 0px;
+  font-size:80px;
+  color:rgba(40,40,40,1);
+
+}
+
+.chartbody .snowfalllabel {
+  position: absolute;
+  top: 17px;
+  left: 0px;
+  right: 0px;
+  font-size: 8px;
+  color: rgba(255,255,255,0.75);
+}
+
+.chartbody .chartcity {
+  position: absolute;
+  top: 5px;
+  left: 0px;
+  right: 0px;
+  font-size: 12px;
+  color: rgba(136,136,136,1);
+}

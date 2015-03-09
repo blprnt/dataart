@@ -1,0 +1,34 @@
+/*https://patshiu.cartodb.com/viz/93fce9e0-b883-11e4-bb41-0e018d66dc29/map*/
+
+#price_rise_1{
+  polygon-fill: rgba(67,97,143, 0);
+  polygon-opacity: 1;
+  polygon-comp-op: overlay;
+  line-color: #FFF;
+  line-width: 0.5;
+  line-opacity: 1;
+}
+#price_rise_1 [ fall <= -187] {
+   polygon-fill: rgba(67,97,143, 0.10);
+}
+#price_rise_1 [ fall <= -3750] {
+   polygon-fill: rgba(67,97,143, 0.25);
+}
+#price_rise_1 [ fall <= -11000] {
+   polygon-fill: rgba(67,97,143, 0.40);
+}
+#price_rise_1 [ fall <= -25000] {
+   polygon-fill: rgba(67,97,143, 0.55);
+}
+#price_rise_1 [ fall <= -49000] {
+   polygon-fill: rgba(67,97,143, 0.70);
+}
+#price_rise_1 [ fall <= -99000] {
+   polygon-fill: rgba(67,97,143, 0.85);
+}
+#price_rise_1 [ fall <= -160000] {
+   polygon-fill: rgba(67,97,143, 1);
+}
+
+
+

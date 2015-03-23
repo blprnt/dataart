@@ -1,0 +1,63 @@
+void listAllFilesInDir(String DirName) {
+	
+}
+
+void loadAllFilesInList(String[] listOfFiles) {
+	
+}
+
+void autoPlay() {
+
+	if (nsfw == true){ 
+		//Display ascii art
+		//Scramble ascii art
+		if (pause == false){
+			repeat;
+		}
+	}
+
+	if (sfw == true){
+		//Display sfw ascii art
+		/Scramble ascii art
+		if (pause == false){
+			repeat;
+		}
+	}
+}
+
+void toggleNSFW() {
+	//toggle the nsfw state
+}
+
+
+//One Pr0n file 
+class Pr0n {
+	ArrayList<Particle> pronBits = new ArrayList<Particle>();
+	int width; 
+	PVector loc; 
+
+	Pr0n(String FilePath){
+		//Load the file into ArrayList 
+	}
+
+	void display() {
+		//Show the pr0n, relative to home position
+
+	}
+
+	void visualize() {
+		//Arrange particles by type
+	}
+}
+
+class Particle {
+	Char p; 
+	PVector homeLoc; 
+	PVector loc; 
+	PVector tloc; 
+
+	void update() {
+		//Move the particle
+	}
+}
+

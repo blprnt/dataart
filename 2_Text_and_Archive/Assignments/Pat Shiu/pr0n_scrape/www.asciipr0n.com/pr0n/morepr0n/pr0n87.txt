@@ -1,0 +1,51 @@
+ Bi ....:,.  i7X2SXXS8Z2SSZZ2SSXZBBBBB27i:: ,:,iSZSX8ZXSri::,.:,      r..,. 7BBBBBr,,,,,,,,::::::,:,:
+ B2 ... ,,   .:iSXXSSZ2ZB82Z8ZX7XX      .,:rri.            .::i,    . .i ,  iBBBBBr.,,,,,,,:::,::,,,,
+ BB,.,...:i:  :iSSXXS222ZSSSXS2i     ,.i7Sr         ,  ..    .ii.......i ,. ,BXBBS,,,,,,,.,:,:,:::ii:
+ BBi..    ,,  .:7XXXS2SX2ZZ8B7      .77i      .,,      ,: .     .,.. ..7 ,.  i SS ,,,,,,,,,:,::::,:ii
+ BBS.    .:r7r7SZ8BB8ZB8BBB7   .,:  .., ::7r..           i         . ..S... :S,,i.i,,,,,,,,:,,,::,,,:
+ BBBBBBBBBBBB8ZSXr:,  ZB2X     .r72Sr,iS27,                 .,,       .7i    7i ::, .,,,,,,::::,:,,,,
+ 7r:,.                rS.   .   ,. :rr:                                 . 7BBBBBBB2,   ,,,,:,::,::rri
+                      ,,.      ..:  .,                      ,.         BBBBBBBBBBBBBBB,.,,,:::::::,,,
+                    .ri.     :X, .rSrr           :rBr  ,:   . ::.     ,:,:XBBBBBBBBB8BZ ,,,:,:::,,,::
+                   .r,    .::. .i:.,:ri          rBZ.  ,ri..             iX7ZB88BBBBZ2B:.,,::::::,,,,
+                 :Xr     .,  iS: ,SSXi       .7r:7BS  .r:             iBBBBBBBBBBBBBB822 ,,:::::::ii:
+ S8BBrrir77r,,7r 2i  .  :.  :i  ,X:             .788i  .,                ,XBBBBBBBBZBBZ2..,:::::,:iii
+ BBBBSriiri:. :,:i . .,:.  i.        ir       r:  2Xr.  ,.i.             rX,,:SBBBB2ZBB7r ,::::::,:i:
+ BBBB2::::,.   :7. .:,    ,.      . ,:   rSriiXXr   i..  ,:r  .        ,BBBBBBXZBBBB2ZBSX..:::,::,:,,
+ BBBBZ:,..,,...r  .: .          ,r,:,  iSr22X2BB2Xr     i,,             X2BBBBBB8BBBZ7BBX:.::::,::i:,
+ BBBBBr, ....:r, .:,           ,, X,  .iSXXZBBBBB82S :7   ,,               .8BBB82BBZX7BB .:::,:::irr
+ 8BBBBX,,ir7Sr, ,             r   . r7SBBBBBBBBBBBB8S SS                     BBBBBXBB8XBB .:::::::,,,
+ 28BBBZ:i7X7X, ,                 ,,XS8BBBBBBBBBBBBBBB7 S7                    2BBBB7BBBBX,.,::::::,:::
+ 22BBB8,.:rr:  .                 S72BBBBBBBBBBBBBBBBBB  Zr                   BBBB8Z8BBB:.,,::::iirrri
+ 2SBBBBr.,ir  .                ,X2SBBBBBBBBBBBBBBBBB8B8 i2i                  BBBBBB2i:.,,,iri:,.     
+ SS8BBBX.,7, ,                72ZZ8BBBBBBBBBBBBBBBBB8BB  2S,                :BBBB87 i.             ,r
+ S7ZBBBZ.:S.,                iB7BBBBBBBBBBBBBBBBBBBB88B7 .27,               i2BZ7, 8BBBSSZ8BBBBBBBBBB
+ SXS8BBB:rS.              .  2i S8BBBBBBBBBBBBBBBBBBB88B  rXX,              :7Si,,8BBBBBBBBBBBBBBBBBB
+ XXX8BBBr7,               : :Br   ,ZBBBBBBBBBBBBBBBB88ZB  :XS:              i7r::8BBBBBBBBBBBBBBBBBBB
+ 7S72BBB2,                r  X2XBX.  78BBBBBBBBBBBB888BBr iir,              irir:BBBBBBBBBBBBBBBBBBBZ
+ iSrX88BS                 : :BBBBBBB2r72Z8B8BBBBBBBBBBBBB :Z7,             .rr7r:, XBBBBB82Xr:.      
+ ,27rZBB           ,   i  :   : r7ZBBZZZ88BB88ZXi,:,.,,:i  ii,.            ,777rriSBB                
+ .8ZrZZB           X  .r  2  r.    .Z28BBB882r,        :8, X7              ,r777r::BB    .,,....     
+ ,BB222B           :  7i  S.7XBiXXZBBBBBBBB2:  ,2BBBBBBBB. i:              .:i7XX7i,B,    ,,,,..     
+                   :  ,r ,i,S7B2BBBBBBBBBBBXrrB2   iXS2ZZ, ,...             ii77XS2SS.    ..,...     
+   ii              i  ,S .,r7iBSBBBBBBBBBB8288BBBBX        :::,             iirXS22Z88r,::,.. . .    
+ 7,                i  :Z   XrrB8BBBBBBBBBB2Z8Z888B88SX:,:,7B87,             ,irSZ8Z8Z8BS.,:i::.      
+                   r  :B  .Z:BZB8B8BBBBBB822Z288888BBBBBB:X8Zi.              ,i288B8888B2..::::,.    
+ ,  r,             i  .B  :S,BS8788BBBBBBBS772888BBBBBBBBX2X7,                :2BBBB888BB8, .,,,:,:, 
+ 8    ,.           .  ,2 .:X 8BrSBBBBBBBBBi,.2Z888BBBBBBB:i,,                  S88BBBBBB8BB7 ,,::::,.
+ BS.X  ,        ,,     S  ,Z SBZBBBBBBBBBB7B.ZB88888ZZ2SX. ..                  :Z8BBBBBB88BBZi::::::,
+ 8S ,X           .     S:..8 7BB8B, XBBB2irX 2B88ZZZZ2Xi:.                    , S88BBBBBB88BB8i,::::,
+ 2:8 :.                S,,.2X7BB8BBB7     ., 7BBZ2SS7i,.,                     B ,Z8BBBBBB88888Bi,:ii:
+ 8X.i                  7 ,:7X 7ZZBBBBBB: .,,.iZ82S7i,.,,,                     BS XZ888BBBB8888887ir,.
+ 8ZX  ,,                 .rrX:r7,  .XBBB2X7i:rXXrr:.,,,,                     2BB: 2888BBBB88B8Z88X   
+ BBB8   :.                :r27ZBBBBBS        ,i7Xr:,:,                       BBB8 X888888BBB888Z8BX  
+ BBBBB,                   7X2X.2r:7BBBBBBZ2Xr:rr:,,,                         B2X2 ,Z88888888888888B7 
+ BBBBBBr ,                .28Bi882:         ,::.,                           i82Z8  i888888888888ZZZ8:
+ BBBBBBBX                   iBBXBBBBB82r,,:iri,                             rBSBB:,.28888888B8888ZZZS
+ BBBBBBBBS                    rZ2BB8SX2882Xi.                                  .S   ,888888888B8888ZS
+ BBBBBBBBB2    .  .               ...rr:                                     ,  r    7Z888888888888Z2
+ BBBBBBBBBBZ                                                                      ::..SZZ88888888ZZZ2
+ BBBBBBBBBBB8    .                                                        .       :irri2ZZZ88888888ZZ
+ BBBBBBBBBBBB8:                                                                    .irr722ZZ88Z88888Z
+
+m0f73

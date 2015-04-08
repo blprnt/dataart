@@ -1,0 +1,33 @@
+[
+  {
+    "name":"New York City",
+    "total":450,
+    "record":[
+      {"year":"2005","Snow":70},
+      {"year":"2006","Snow":60},
+      {"year":"2007","Snow":21},
+      {"year":"2008","Snow":50},
+      {"year":"2009","Snow":72},
+      {"year":"2010","Snow":62},
+      {"year":"2011","Snow":60},
+      {"year":"2012","Snow":44},
+      {"year":"2013","Snow":90},
+      {"year":"2014","Snow":82}
+    ]},
+  {
+    "name":"Wisconsin",
+    "total":620,
+    "record":[
+      {"year":"2005","Snow":50},
+      {"year":"2006","Snow":80},
+      {"year":"2007","Snow":41},
+      {"year":"2008","Snow":90},
+      {"year":"2009","Snow":72},
+      {"year":"2010","Snow":42},
+      {"year":"2011","Snow":50},
+      {"year":"2012","Snow":74},
+      {"year":"2013","Snow":20},
+      {"year":"2014","Snow":80}
+    ]}
+
+  ]

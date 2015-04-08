@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Snowfall</title>
+
+
+    <script src="./jss/three.min.js"></script>
+    <script src="./jss/d3.min.js"></script>
+    <script src="./jss/TrackballControls.js"></script>
+    <script src="./jss/tween.js"></script>
+    <script src="./jss/CSS3DRenderer.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="./css/style.css">
+
+</head>
+
+<body>
+
+<div id="container"></div>
+
+
+<script>
+
+    var camera;
+    var renderer;
+    var scene;
+    var count;
+    var controls;
+
+    var dataset=[];
+    var tempColor;
+
+    var xAxis, xAxisLength;
+    var yAxis, yAxisLength;
+
+    var margin={
+        top:17,
+        left:22,
+        right:0,
+        bottom:20};
+
+    var width=225-margin.left-margin.right;
+    var height=140-margin.top-margin.bottom;
+
+    scene=new THREE.Scene();
+    camera=new THREE.PerspectiveCamera(45,
+            window.innerWidth/window.innerHeight,
+            0.1,
+            1000
+    );
+
+    camera.position.set(0,0,1000);
+    camera.setLens(100);
+
+    d3.json('./data/snow.json',function(error,data){
+
+        dataset=data;
+
+        drawChart(data);
+        drawChange('grid');
+        render();
+        animate();
+        window.addEventListener('resize',onWindowResize, false);
+    });
+
+    //dataset[0].record[0].Snow
+
+
+    function drawChart(data){
+
+        count=data.length;
+
+        var x = d3.scale.ordinal()
+                .rangeRoundBands([0, width], 0, 0)
+                .domain(d3.range(2005,2015).map(function (d)
+                {
+                    return d + "";
+                }));
+
+        var y = d3.scale.linear()
+                .range([height, 0])
+                .domain([0, 100]);
+
+
+        var roundScale=d3.scale.pow()
+                .exponent(4)
+                .domain([0,100])
+                .range([3,10]);
+
+        var tooltip=d3.select('body').append('div')
+                //.attr('id','tooltip')
+                .style({
+                    'position':'absolute',
+                    'padding':'0 10px',
+                    'background':'white',
+                    'opacity':'0',
+                    'border-radius': '10px'
+
+                });
+
+        var xAxis = d3.svg.axis().scale(x).orient("bottom");
+        var yAxis = d3.svg.axis().scale(y).orient("left");
+
+        var myChart = d3.selectAll('.chartbody')
+                .data(data).enter()
+                .append('div')
+                .attr('class', 'chartbody')
+                .on('click', function(){
+                    drawChange('sphere');
+
+                })
+
+        myChart.append('div')
+                .attr('class', 'chartcity')
+                .html(function (d,i) { return d.name; })
+
+        myChart.append('div')
+                .attr('class', 'snowfall')
+                .html(function (d, i) { return d.total; })
+
+        myChart.append('div')
+                .attr('class', 'snowfalllabel')
+                .html("SnowFall")
+
+        myChart.append("svg")
+                .attr("width",  width  + margin.left + margin.right)
+                .attr("height", height + margin.top  + margin.bottom)
+                .append("g")
+                .attr("class", "chartgroup")
+                .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+//        myChart.select('svg').append('defs').append('pattern')
+//                .attr('id','image')
+//                .attr('x',0)
+//                .attr('y',0)
+//                .attr('width',40)
+//                .attr('height',40)
+//                .append('image')
+//
+//                .attr('x',0)
+//                .attr('y',0)
+//                .attr('width',140)
+//                .attr('height',140)
+//                .attr('xlink:href','sprite-sheet.png');
+
+//        myChart.select('circle')
+//                .style('fill','url(#image)')
+//                .attr("cx", 225)
+//                .attr("cy", 125)
+//                .attr("r", 70)
+//                .style("stroke", "red")
+//                .style("stroke-width", 0.25);
+
+        myChart.select(".chartgroup")
+                .append("g").attr("class", "snowfall")
+                .selectAll("series")
+                .data(function(d,i){
+                    dataset= d.record;
+                    return dataset;
+                })
+                .enter()
+                .append('circle')
+                .on('mouseover',function(d,i){
+                    tempColor=this.style.fill;
+                        d3.select(this)
+                                .attr('r', 2)
+                                .transition().duration(700)
+                                //.delay(Math.pow(i,2.5)*50)
+                                .style({
+                                    'opacity': 0.7,
+                                    'fill': 'yellow',
+//                                    'fill':'url(#image)',
+                                    'stroke-opacity':0.4
+                                })
+                                .attr('r', roundScale(d.Snow));
+
+                    tooltip.style({
+                                'opacity':.5
+                            });
+                    tooltip.text(d.Snow+' m')
+                            .style({
+                                'left':(d3.event.pageX+10)+'px',
+                                'top':(d3.event.pageY)+'px'
+
+                            })
+                })
+                .on('mouseout', function (d,i) {
+                    d3.select(this)
+                            .transition()
+                            .style({
+                                'opacity':0.7,
+                                'fill':tempColor
+                            });
+//                    d3.select("#tooltip").remove();
+
+                })
+                .attr('cx',function(d,i){
+                    return Math.sqrt(401)*i+12;
+                })
+                .attr('cy',function(d,i){
+                    return y(d.Snow);
+                })
+                .attr('r',function(d,i){
+                    return 0;
+                })
+                .style({
+                    'fill':'none',
+                    'opacity':0.7
+                })
+                .transition().delay(function(d,i){
+                    return i*300;
+                })
+//                .ease('elastic')
+                .attr('r',function(d,i){
+                    return roundScale(d.Snow);
+                })
+                .style({
+                    'fill':'white',
+                    'opacity':1
+                });
+
+
+        myChart.select(".chartgroup").append("g")
+                .attr("class", "x axis")
+                .attr("transform", "translate(0," + (height) + ")")
+                .call(xAxis)
+                .append('text')
+                .attr("x", 175)
+                .attr("y", -5)
+                .attr("dx", ".71em")
+                .style("text-anchor", "start")
+                .style("alignment-baseline","baseline")
+                .text(function(d,i){
+                    return  'year';
+                });
+
+
+        myChart.select(".chartgroup").append("g")
+                .attr("class", "y axis")
+                .call(yAxis)
+                .append("text")
+                .attr("transform", "rotate(-90)")
+                .attr("y", 6)
+                .attr("dy", ".71em")
+                .style("text-anchor", "end")
+                .text(function(d,i){
+                    return  'meter';
+                });
+
+        myChart.each(ChartData);
+        //render();
+        myChart.each(ThreeObject);
+
+    }
+
+    function ThreeObject(d) {
+        var object = new THREE.CSS3DObject(this);
+        object.position = d.random.position;
+        scene.add(object);
+    }
+
+
+    function render(){
+        renderer.render(scene,camera);
+    }
+
+    function drawChange(layout){
+        var duration = 1000;
+
+        TWEEN.removeAll();
+
+        scene.children.forEach(function (object){
+            var newPos = object.element.__data__[layout].position;
+            var coords = new TWEEN.Tween(object.position)
+                    .to({x: newPos.x, y: newPos.y, z: newPos.z}, duration)
+                    .easing(TWEEN.Easing.Sinusoidal.InOut)
+                    .start();
+        });
+
+        var update = new TWEEN.Tween(this)
+                .to({}, duration)
+                .onUpdate(render)
+                .start();
+    }
+
+    function ChartData(d, i) {
+        var tempMinus=2000;
+        var vector;
+        var phi;
+        var theta;
+
+        var random = new THREE.Object3D();
+        random.position.x = Math.random() * 4000 - tempMinus;
+        random.position.y = Math.random() * 4000 - tempMinus;
+        random.position.z = Math.random() * 4000 - tempMinus;
+        d['random'] = random;
+
+        var sphere = new THREE.Object3D();
+        vector = new THREE.Vector3();
+
+        phi = Math.acos(-1 + ( 2 * i ) / (count - 1));
+        theta = Math.sqrt((count - 1) * Math.PI) * phi;
+        sphere.position.x = 600 * Math.cos(theta) * Math.sin(phi);
+        sphere.position.y = 600 * Math.sin(theta) * Math.sin(phi);
+        sphere.position.z = 600 * Math.cos(phi);
+        vector.copy(sphere.position).multiplyScalar(2);
+        sphere.lookAt(vector);
+        d['sphere'] = sphere;
+
+        var grid = new THREE.Object3D();
+        grid.position.x = (( i % 5 ) * 400)-window.innerWidth/(count*4); // -800
+        grid.position.y = ( -( Math.floor( i / 5 ) % 5 ) * 400 ) ; // +800
+        grid.position.z = (Math.floor( i / 25 )) * 1000-500; // -2000
+        d['grid'] = grid;
+    }
+
+    function animate(){
+        TWEEN.update();
+        controls.update();
+        requestAnimationFrame(animate);
+
+    }
+
+    renderer = new THREE.CSS3DRenderer();
+    renderer.setSize(window.innerWidth, window.innerHeight);
+
+    renderer.domElement.style.position = 'absolute';
+    document.getElementById('container').appendChild(renderer.domElement);
+
+    controls = new THREE.TrackballControls(camera, renderer.domElement);
+    controls.rotateSpeed = 0.5;
+    controls.minDistance = 100;
+    controls.maxDistance = 6000;
+    controls.addEventListener('change', render);
+
+    function onWindowResize() {
+
+        camera.aspect = width / height;
+        camera.updateProjectionMatrix();
+        renderer.setSize(window.innerWidth, window.innerHeight);
+        render();
+    }
+</script>
+
+</body>
+</html>

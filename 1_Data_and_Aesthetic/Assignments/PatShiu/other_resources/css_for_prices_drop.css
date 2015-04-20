@@ -31,4 +31,39 @@
 }
 
 
+/*
+VERSION 2
+For symmetry with rise segments
+*/
+
+
+#price_rise_1{
+  polygon-fill: rgba(67,97,143, 0);
+  polygon-opacity: 1;
+  polygon-comp-op: overlay;
+  line-color: #FFF;
+  line-width: 0.5;
+  line-opacity: 1;
+}
+#price_rise_1 [ fall <= -6250] {
+   polygon-fill: rgba(67,97,143, 0.10);
+}
+#price_rise_1 [ fall <= -10625] {
+   polygon-fill: rgba(67,97,143, 0.25);
+}
+#price_rise_1 [ fall <= -24638] {
+   polygon-fill: rgba(67,97,143, 0.40);
+}
+#price_rise_1 [ fall <= -58750] {
+   polygon-fill: rgba(67,97,143, 0.55);
+}
+#price_rise_1 [ fall <= -300438] {
+   polygon-fill: rgba(67,97,143, 0.70);
+}
+#price_rise_1 [ fall <= -99000] {
+   polygon-fill: rgba(67,97,143, 0.85);
+}
+#price_rise_1 [ fall <= -5900000] {
+   polygon-fill: rgba(67,97,143, 1);
+}
 

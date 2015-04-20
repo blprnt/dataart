@@ -1,0 +1,463 @@
+0. Infantry	 - 	2204
+1. National Guard	 - 	467
+2. State Militia	 - 	257
+3. Navy	 - 	230
+4. Cavalry	 - 	166
+5. Infantry, Infantry	 - 	147
+6. Heavy Artillery	 - 	111
+7. 	 - 	99
+8. Light Artillery	 - 	62
+9. Engineers	 - 	60
+10. US Navy	 - 	53
+11. Infantry, State Militia	 - 	46
+12. Infantry, Veteran Infantry	 - 	38
+13. Army	 - 	33
+14. Militia	 - 	32
+15. Infantry, National Guard	 - 	27
+16. Volunteers	 - 	24
+17. National Guard, Infantry	 - 	20
+18. Infantry, Infantry, Infantry	 - 	18
+19. NYS National Guard	 - 	17
+20. National Guard, National Guard	 - 	17
+21. Infantry, Veteran Reserve	 - 	17
+22. Infantry, Heavy Artillery	 - 	16
+23. United States Navy	 - 	15
+24. Mounted Rifles	 - 	15
+25. State Militia, Infantry	 - 	14
+26. Light Artillery, Light Artillery	 - 	14
+27. Heavy Artillery, Infantry	 - 	14
+28. Cavalry, Cavalry	 - 	13
+29. NYS Militia	 - 	12
+30. National Guard, State Militia	 - 	12
+31. Infantry, Cavalry	 - 	12
+32. Cavalry, Infantry	 - 	12
+33. State Militia, National Guard	 - 	11
+34. Cavalry, Provisional Cavalry	 - 	10
+35. New York State National Guard	 - 	9
+36. Marine Corps	 - 	9
+37. Infantry, Light Artillery	 - 	9
+38. Infantry, Veteran Reserve Corps	 - 	8
+39. Veteran Infantry	 - 	7
+40. US Army	 - 	7
+41. United States Army	 - 	7
+42. Infantry, Navy	 - 	7
+43. Infantry, Militia	 - 	7
+44. Artillery	 - 	7
+45. Volunteers, Infantry	 - 	6
+46. Unknown	 - 	6
+47. Light Artillary	 - 	6
+48. Infantry, Engineers	 - 	6
+49. New York State Militia	 - 	5
+50. National Guard, Heavy Artillery	 - 	5
+51. Marine Light Artillery	 - 	5
+52. Infantry, NYS Militia	 - 	5
+53. Heavy Artillary	 - 	5
+54. US Army Infantry	 - 	4
+55. Mounted Rifles, Provisional Cavalry	 - 	4
+56. Mounted Rifles, Cavalry	 - 	4
+57. Infantry, Veteran Reserve Corp.	 - 	4
+58. Infantry, US Volunteers	 - 	4
+59. Infantry, US Army	 - 	4
+60. Infantry, Infantry, State Militia	 - 	4
+61. Infantry, Cavalry, Infantry	 - 	4
+62. Colored Troops	 - 	4
+63. Cavalry, State Militia	 - 	4
+64. Volunteer Infantry	 - 	3
+65. Veteran Infantry, Infantry	 - 	3
+66. State Militia, Navy	 - 	3
+67. National Guard, Militia	 - 	3
+68. Marines	 - 	3
+69. Light Artillery, Heavy Artillery	 - 	3
+70. Infantry, Veterans Reserve	 - 	3
+71. Infantry, Infantry, National Guard	 - 	3
+72. Infantry, Army	 - 	3
+73. Engineers, National Guard	 - 	3
+74. US Volunteers, Heavy Artillery	 - 	2
+75. US Sharpshooters	 - 	2
+76. US Revenue Marines	 - 	2
+77. United States Revenue Marines	 - 	2
+78. United States Colored Troops	 - 	2
+79. United States Colored Infantry	 - 	2
+80. United States Army Infantry	 - 	2
+81. U.S. Navy	 - 	2
+82. State National Guard	 - 	2
+83. State Militia, US Volunteers	 - 	2
+84. State Militia, US Navy	 - 	2
+85. State Militia, United States Navy	 - 	2
+86. Sharpshooters, Infantry	 - 	2
+87. Rifles, Infantry	 - 	2
+88. Revenue Service	 - 	2
+89. Revenue Marines	 - 	2
+90. NYS Militia, Infantry	 - 	2
+91. National Guard, Navy	 - 	2
+92. Miltia	 - 	2
+93. Militia, National Guard	 - 	2
+94. Militia Engineers	 - 	2
+95. Marine Corp	 - 	2
+96. Light Artillery, Infantry	 - 	2
+97. Infantry, Volunteers	 - 	2
+98. Infantry, Veterans Reserve Corps	 - 	2
+99. Infantry, Veterans Reserve Corp	 - 	2
+100. Infantry, Veterans Infantry	 - 	2
+101. Infantry, US Navy	 - 	2
+102. Infantry, United States Volunteers	 - 	2
+103. Infantry, Union Coast Guard	 - 	2
+104. Infantry, Infantry, Veteran Reserve Corp.	 - 	2
+105. Infantry, Infantry, Veteran Corps	 - 	2
+106. Infantry, Infantry, Artillery	 - 	2
+107. Infantry, Coast Guard	 - 	2
+108. Heavy Artillery, Light Artillery	 - 	2
+109. Heavy Artillery, Heavy Artillery	 - 	2
+110. Engineers, Navy	 - 	2
+111. Enfants Perdus	 - 	2
+112. Commissary Department	 - 	2
+113. Colored Infantry	 - 	2
+114. Cavalry, Cavalry, National Guard	 - 	2
+115. Cavalry, Cavalry, Infantry	 - 	2
+116. Army Medical Staff	 - 	2
+117. Abolitionist	 - 	2
+118. Washington Artillery	 - 	1
+119. War Correspondent	 - 	1
+120. VolunteersCommissarySubsistence	 - 	1
+121. Volunteers, Volunteers	 - 	1
+122. Volunteers, Quartermaster	 - 	1
+123. Volunteers, Paymaster Dept.	 - 	1
+124. Volunteers, Navy	 - 	1
+125. Volunteers, Infantry, State Militia	 - 	1
+126. Volunteers, Cavalry, Militia	 - 	1
+127. Volunteers, Artillery	 - 	1
+128. Volunteers Paymaster	 - 	1
+129. Volunteers Medical Staff	 - 	1
+130. Volunteers Commissary	 - 	1
+131. Volunteers Army Medical	 - 	1
+132. Volunteer Quartermaster Dept.	 - 	1
+133. Volunteer Paymasters	 - 	1
+134. Volunteer Medical Staff	 - 	1
+135. Volunteer Infantry, Veteran Reserve Corps	 - 	1
+136. Volunteer Commissary	 - 	1
+137. Veterans Reserve Corps, Infantry	 - 	1
+138. Veterans Infantry, National Guard	 - 	1
+139. Veterans Infantry, Infantry	 - 	1
+140. Veteran Reserve, Infantry	 - 	1
+141. Veteran Reserve Corps, Infantry	 - 	1
+142. Veteran Reserve Corp.	 - 	1
+143. Veteran Regiment	 - 	1
+144. Veteran Infantry, Infantry,Infantry	 - 	1
+145. Veteran Cavalry	 - 	1
+146. Vet Reserve, Vet Infantry, Artillery	 - 	1
+147. Vet Res, St. Militia, Inf, Vet Res	 - 	1
+148. USRCS	 - 	1
+149. USMC, USN	 - 	1
+150. US Volunteers, State Militia	 - 	1
+151. US Volunteers Paymester's Dept	 - 	1
+152. US Volunteers Commissary Department	 - 	1
+153. US Volunteers	 - 	1
+154. US Volunteer's Adjutant's General Department	 - 	1
+155. US Veteran Infantry, National Guard, Infantry	 - 	1
+156. US Sanitary Commission	 - 	1
+157. US Sanitary Commision	 - 	1
+158. US Rifles, Infantry	 - 	1
+159. US Revenue Cutter Service	 - 	1
+160. US Navy, NY Veteran Cavalry	 - 	1
+161. US Infantry	 - 	1
+162. US Engineers	 - 	1
+163. US Colored Troops, USCT, USCT, Infantry	 - 	1
+164. US Colored Troops Infantry	 - 	1
+165. US Colored Infantry,  National Guard	 - 	1
+166. US Army, Light Artillery	 - 	1
+167. US Army Light Artillery	 - 	1
+168. US Army Infantry, Infantry	 - 	1
+169. US Army Cavalry	 - 	1
+170. US  Volunteers	 - 	1
+171. unknown	 - 	1
+172. UnitedStates Engineers	 - 	1
+173. United States Volunteers, New York State National Guard, Infantry	 - 	1
+174. United States Volunteers, Judge Advocate's Department	 - 	1
+175. United States Volunteers Aide-de-Camp	 - 	1
+176. United States Volunteers	 - 	1
+177. United States Veteran Volunteer Cavalry, United States Cavalry	 - 	1
+178. United States Marine Corps	 - 	1
+179. United States Colored Troops, Infantry, Infantry	 - 	1
+180. United States Colored Infantry, Light Artillery	 - 	1
+181. United States Colonel Troops	 - 	1
+182. United States Cavalry	 - 	1
+183. Union Transport Ship	 - 	1
+184. Underground  Railroad	 - 	1
+185. UK Merchant Marines, U.S. Navy	 - 	1
+186. Troops	 - 	1
+187. Surgeon	 - 	1
+188. Stuart's Horse Light Artillery	 - 	1
+189. State Militia; U.S.Marines	 - 	1
+190. State Militia/US Navy	 - 	1
+191. State Militia, US Army	 - 	1
+192. State Militia, United States Infantry	 - 	1
+193. State Militia, State National Guard	 - 	1
+194. State Militia, Sharpshooters, Marines	 - 	1
+195. State Militia, Sappers, & Miners	 - 	1
+196. State Militia, Mounted Rifles, Cavalry	 - 	1
+197. State Militia, Mounted Rifles	 - 	1
+198. State Militia, Infantry, Infantry	 - 	1
+199. State Militia, Infantry, Cavalry	 - 	1
+200. State Militia, Heavy Artillery	 - 	1
+201. State Militia, Cavalry, Calvary	 - 	1
+202. State Militia, Army	 - 	1
+203. State militia	 - 	1
+204. Soldier's Hospital	 - 	1
+205. Sharpshooters	 - 	1
+206. Senatorial District, Infantry	 - 	1
+207. Sanitary Commission	 - 	1
+208. Sanitary & Christian Comm.	 - 	1
+209. Rutledges' Cavalry	 - 	1
+210. Revenue Service, State Militia	 - 	1
+211. Revenue Cutter Service USN	 - 	1
+212. Revenue Cutter Service	 - 	1
+213. Reserve Volunteers, Sharpshooters	 - 	1
+214. Reserve Infantry, US Army General Service	 - 	1
+215. Reserve Infantry, Infantry	 - 	1
+216. Regulars	 - 	1
+217. Regular Army	 - 	1
+218. Regiment Infantry	 - 	1
+219. Regiment	 - 	1
+220. Quartermaster's Department, Signal Corps	 - 	1
+221. Quartermaster	 - 	1
+222. Provost Marshall	 - 	1
+223. Provisional Navy	 - 	1
+224. Provisional Cavalry, Cavalry	 - 	1
+225. Portrait Lincoln	 - 	1
+226. Paymaster, Volunteers	 - 	1
+227. Paymaster Dept.	 - 	1
+228. Organizer & Fundraiser	 - 	1
+229. NYS National Guard, NYS Militia	 - 	1
+230. NYS Militia, National Guard	 - 	1
+231. Nurse	 - 	1
+232. Nitre & Mining Bureau CSA	 - 	1
+233. Nitre & Mining Bureau	 - 	1
+234. New YorkState National Guard	 - 	1
+235. New YorkHeavy Artillery	 - 	1
+236. New York State Militia, Cavalry	 - 	1
+237. New York State MIlitia	 - 	1
+238. New York National Guard, Infantry	 - 	1
+239. New York Mounted Rifles	 - 	1
+240. New York Engineers	 - 	1
+241. New York Battalion, infantry, infantry	 - 	1
+242. Navy, Infantry	 - 	1
+243. Navy, Heavy Artillery	 - 	1
+244. Navy, Army Medical Staffs	 - 	1
+245. Navy Marine Corps	 - 	1
+246. Naval Academy	 - 	1
+247. National Sanitary Commission	 - 	1
+248. National Guard,Infantry	 - 	1
+249. National Guard, Veteran Reserve	 - 	1
+250. National Guard, US Colored Cavalry	 - 	1
+251. National Guard, US Army	 - 	1
+252. National Guard, United States Navy	 - 	1
+253. National Guard, United States Infantry	 - 	1
+254. National Guard, National Guard, Cavalry	 - 	1
+255. National Guard, Militia, Infantry	 - 	1
+256. National Guard, Light Artillery	 - 	1
+257. National Guard, Infantry, Veteran Reserve Corps	 - 	1
+258. National Guard, Infantry, US Navy	 - 	1
+259. National Guard, Ind. Infantry	 - 	1
+260. National Guard, Heavy Artillery, Light Artillery	 - 	1
+261. National Guard, Heavy Artillery, Infantry	 - 	1
+262. National Guard, Artillery	 - 	1
+263. National Guard Artillery	 - 	1
+264. National Guard (Heavy Artillery)	 - 	1
+265. Nat'l Guard, Nat'l Guard, Infantry	 - 	1
+266. Nat'l Guard, Nat'l Guard	 - 	1
+267. Nat Guard, Infantry, Infantry	 - 	1
+268. Mounty Rifles	 - 	1
+269. Mounted Rifles, United States Navy	 - 	1
+270. Mounted Rifles, Provisional Cavalry, Infantry, Infantry, Heavy Artillary	 - 	1
+271. Mounted Rifles, Prov. Cavalry	 - 	1
+272. Mounted Rifles, National Guard	 - 	1
+273. Mounted Rifles, Infantry	 - 	1
+274. Mobile Volunteers	 - 	1
+275. Militia, Infantry	 - 	1
+276. Militia (Cavalry), National Guard	 - 	1
+277. Military Academy	 - 	1
+278. Metropolitan Police Department	 - 	1
+279. Merchants Brigade, Regiment	 - 	1
+280. Member of Sanitary Commission	 - 	1
+281. Medical Staff	 - 	1
+282. Medical Corps	 - 	1
+283. Marine Light Artillery, Heavy Artillery	 - 	1
+284. Marine Artillery	 - 	1
+285. Louisiana Secession Convention	 - 	1
+286. Light Infantry, Navy	 - 	1
+287. Light Artillery, Volunteers	 - 	1
+288. Light Artillery, Veteran Reserve	 - 	1
+289. Light Artillery, State Militia, Light Artillery	 - 	1
+290. Light Artillery, State Militia	 - 	1
+291. Light Artillery, Navy	 - 	1
+292. Light Artillery, Marine Light Artillery, Infantry	 - 	1
+293. Light Artillery, Litht Artillery, Light Artillery	 - 	1
+294. Light Artillery, Light Artillery, Cavalry	 - 	1
+295. Light Artillery, Infantry, Heavy Artillery	 - 	1
+296. Light Artillery, Independent Light Artillery	 - 	1
+297. Light Artillery, Engineers	 - 	1
+298. Light Artillary, Infantry	 - 	1
+299. Light Artillary, Colvin's Light Artillary	 - 	1
+300. LIght Artillary	 - 	1
+301. Infantry. Veteran Infantry	 - 	1
+302. Infantry. Infantry	 - 	1
+303. Infantry,US Volunteer Adjutant General's Department	 - 	1
+304. Infantry,NYS Militia	 - 	1
+305. Infantry, WP Academy	 - 	1
+306. Infantry, Volunteers, Volunteers	 - 	1
+307. Infantry, Volunteer Infantry	 - 	1
+308. Infantry, Veterans	 - 	1
+309. Infantry, Veteran Reserve Corp, Veteran Reserve Corp.	 - 	1
+310. Infantry, Veteran Reserve Corp	 - 	1
+311. Infantry, Veteran Infantry, State Militia	 - 	1
+312. Infantry, USCT	 - 	1
+313. Infantry, US Volunteers, US Army	 - 	1
+314. Infantry, US Vol. Aide-de-Camp	 - 	1
+315. Infantry, US Veteran Infantry	 - 	1
+316. Infantry, US Signal Corps	 - 	1
+317. Infantry, US Infantry, State Militia	 - 	1
+318. Infantry, US Cavalry	 - 	1
+319. Infantry, US Artillery	 - 	1
+320. Infantry, US Army Infantry	 - 	1
+321. Infantry, United States Navy	 - 	1
+322. Infantry, United States Colored Troops	 - 	1
+323. Infantry, transferred to Navy	 - 	1
+324. Infantry, State Militia, Volunteers	 - 	1
+325. Infantry, State Militia, United States Volunteers	 - 	1
+326. Infantry, State Militia, State Militiia	 - 	1
+327. Infantry, State Militia, Navy	 - 	1
+328. Infantry, State Militia, Infantry	 - 	1
+329. Infantry, State Militia, Army Signal Corps	 - 	1
+330. Infantry, Signal Corps	 - 	1
+331. Infantry, Signal Corp	 - 	1
+332. Infantry, Seaman	 - 	1
+333. Infantry, Regular Army	 - 	1
+334. Infantry, NYS National Guard, NYS Militia	 - 	1
+335. Infantry, NYS National Guard	 - 	1
+336. Infantry, NY Volunteers	 - 	1
+337. Infantry, New York State National Guard, Infantry	 - 	1
+338. Infantry, New York State Militia, Infantry	 - 	1
+339. Infantry, National Guard, USCT	 - 	1
+340. Infantry, National Guard, US Rifles	 - 	1
+341. Infantry, National Guard, State Militia	 - 	1
+342. Infantry, National Guard, National Guard	 - 	1
+343. Infantry, Militia Artillery	 - 	1
+344. Infantry, Marine Corps	 - 	1
+345. Infantry, Light Artillery, Light Artillery	 - 	1
+346. Infantry, Light Artillery, Heavy Artillery	 - 	1
+347. Infantry, Infantry,Infantry	 - 	1
+348. Infantry, Infantry, Volunteers	 - 	1
+349. Infantry, Infantry, Veterans Reserve	 - 	1
+350. Infantry, Infantry, Veteran's Reserve Corp	 - 	1
+351. Infantry, Infantry, US Navy	 - 	1
+352. Infantry, Infantry, Unattached Infantry	 - 	1
+353. Infantry, Infantry, State Militia Heavy Artillery	 - 	1
+354. Infantry, Infantry, Nat. Guard	 - 	1
+355. Infantry, Infantry, Light Artillery	 - 	1
+356. Infantry, Infantry, Infantry, Volunteers	 - 	1
+357. Infantry, Infantry, Heavy Artillery	 - 	1
+358. Infantry, Infantry, Cavalry	 - 	1
+359. Infantry, Infantry, Army	 - 	1
+360. Infantry, Infans Perdu	 - 	1
+361. Infantry, Independent Battery	 - 	1
+362. Infantry, Indep. Battery	 - 	1
+363. Infantry, HeavyArtillery	 - 	1
+364. Infantry, Heavy Artillery, Veteran Reserve Corps	 - 	1
+365. Infantry, Heavy Artillery, Infantry	 - 	1
+366. Infantry, Heavy Artillery, Heavy Artillery	 - 	1
+367. Infantry, Heavy artillery	 - 	1
+368. Infantry, Heavy Artillary	 - 	1
+369. Infantry, Engineers, Infantry	 - 	1
+370. Infantry, Confederate Navy	 - 	1
+371. Infantry, Colored Troops, Infantry	 - 	1
+372. Infantry, Cavalry, Provisional Cavalry, Militia	 - 	1
+373. Infantry, Battalion	 - 	1
+374. Infantry, Artillery, Infantry	 - 	1
+375. Infantry, Artillery	 - 	1
+376. Infantry,  State Militia	 - 	1
+377. Infantry Subsistence Commissary	 - 	1
+378. Infantry Regulars	 - 	1
+379. Infantry Corps D?Afrique, Infantry	 - 	1
+380. Infantry , Navy	 - 	1
+381. Independent Infantry	 - 	1
+382. Independent Battery Light Artillery	 - 	1
+383. Independant Light Infantry	 - 	1
+384. Independant Corps Light Artillery, Infantry	 - 	1
+385. Horation Seymour Cavalry	 - 	1
+386. Heavy Artilllery	 - 	1
+387. Heavy Artillery, Veterans Reserve Corps	 - 	1
+388. Heavy Artillery, U.S. Navy	 - 	1
+389. Heavy Artillery, State Militia, Heavy Artillery	 - 	1
+390. Heavy Artillery, National Guard	 - 	1
+391. Heavy Artillery, Infantry, National Guard	 - 	1
+392. Heavy Artillery, Infantry, Infantry, State Militia	 - 	1
+393. Heavy Artillery, Infantry, Heavy Artillery	 - 	1
+394. Heavy Artillery, Heavy Artillery, State Militia	 - 	1
+395. Heavy Artillery, Engineers	 - 	1
+396. Heavy Artillary, NYS Militia	 - 	1
+397. Heavy Artillary, Infantry	 - 	1
+398. head of New York draft office	 - 	1
+399. Grand Army of the Republic	 - 	1
+400. Enrolled Militia	 - 	1
+401. Engineers, State Militia	 - 	1
+402. Engineers, Light Infantry	 - 	1
+403. Engineers, Light Artillery	 - 	1
+404. Engineers, Heavy Artillery	 - 	1
+405. Engineers Corps	 - 	1
+406. Engineering Dept.	 - 	1
+407. Engineeers	 - 	1
+408. Douglass Hospital	 - 	1
+409. Department of the South/US Volunteers/Department & Army of Ohio & Cumberland	 - 	1
+410. Cutter, Revenue Service	 - 	1
+411. Corps of Cadets	 - 	1
+412. Commissary	 - 	1
+413. Colored Troops, National Guard	 - 	1
+414. Colored Troops, Infantry, Nat'l Guard	 - 	1
+415. Colored Troops, Infantry, Infantry	 - 	1
+416. Colored Troops, Infantry	 - 	1
+417. Colored Troops, Colored Troops	 - 	1
+418. Colored Troops Heavy Artillery	 - 	1
+419. Colored Infantry, Infantry	 - 	1
+420. Coast Guard, Infantry	 - 	1
+421. Coast Guard Infantry	 - 	1
+422. Civilian letter carrier	 - 	1
+423. Civil War Volunteer	 - 	1
+424. Civil War Nurse	 - 	1
+425. City Hall Park Barracks	 - 	1
+426. City Guard	 - 	1
+427. Christian Commission	 - 	1
+428. Cavalry, Volunteers	 - 	1
+429. Cavalry, Veteran Reserve	 - 	1
+430. Cavalry, US Volunteers Quartemaster's Department	 - 	1
+431. Cavalry, US Volunteers Medical Staff	 - 	1
+432. Cavalry, US Volunteers	 - 	1
+433. Cavalry, United States Rifles, Infantry	 - 	1
+434. Cavalry, Mounted Rifles, Cavalry	 - 	1
+435. Cavalry, Mounted Rifles	 - 	1
+436. Cavalry, Light Infantry	 - 	1
+437. Cavalry, Infantry, Infantry, Cavalry	 - 	1
+438. Cavalry, Infantry, Infantry	 - 	1
+439. Cavalry, Heavy Artillery, Infantry	 - 	1
+440. Cavalry, Heavy Artillery, Heavy Artillery	 - 	1
+441. Cavalry, Cavalry, Mounted Rifles, Cavalry	 - 	1
+442. Cavalry, Cavalry, Cavalry	 - 	1
+443. Cavalry, Calvary	 - 	1
+444. Cavalry Volunteers	 - 	1
+445. Calvalry	 - 	1
+446. B	 - 	1
+447. Auxillary Corps of Military Surgeons	 - 	1
+448. Artillery,Infantry	 - 	1
+449. Artillery, State Militia	 - 	1
+450. Artillery, Infantry	 - 	1
+451. Artillery, Artillery	 - 	1
+452. Army Ordnance	 - 	1
+453. Army North VA, Infantry	 - 	1
+454. Army Medical	 - 	1
+455. Army Corps, Volunteer Engineers	 - 	1
+456. Army Corps of Engineers	 - 	1
+457. Army Batallion Engineers	 - 	1
+458. Allowed use of his ships by US Gov't	 - 	1
+459. Aide-De-Camp, Volunteers	 - 	1
+460. aide-de-camp	 - 	1
+461. Agent	 - 	1
+462. --	 - 	1
